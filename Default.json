@@ -427,11 +427,11 @@
       },
       "tokens": {}
     },
-    "Broken": {
-      "themeName": "Broken",
+    "Magic": {
+      "themeName": "Magic",
       "children": {},
       "tokens": {
-        "inkBase": "03ff47f2c7dc7a0a80d33bcfd7bae5448b8ad85a"
+        "inkBase": "f7663574cff91b886d0ab0ae26d46ea0c953600c"
       }
     }
   },
