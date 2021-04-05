@@ -81,6 +81,14 @@
                 "interfaceBrand010": "a203580373ffdd65d04055721a891e276d4a8f5a",
                 "interfaceBrand020": "a2ab77504a737faa151966c97b546ec78a01a59d"
               }
+            },
+            "Purple": {
+              "themeName": "SystemKit-Light-Purple",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "ebd34121957bf5f4055658b095d58a60796db771",
+                "inkBrand020": "785cbac603c2c6aad24d0f92d2e48f91d055ffd5"
+              }
             }
           },
           "tokens": {
