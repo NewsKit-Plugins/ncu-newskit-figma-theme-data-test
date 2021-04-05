@@ -1,14 +1,14 @@
 {
   "themeName": "Default",
   "children": {
-    "SystemKit": {
-      "themeName": "SystemKit",
+    "NewsKit": {
+      "themeName": "NewsKit",
       "children": {
         "Light": {
-          "themeName": "SystemKit-Light",
+          "themeName": "NewsKit-Light",
           "children": {
             "Section One": {
-              "themeName": "SystemKit-Light-Section One",
+              "themeName": "NewsKit-Light-Section One",
               "children": {},
               "tokens": {
                 "inkBrand010": "bf0b3eb85e4223dfa06b945ff7b5e01a43341085",
@@ -33,7 +33,7 @@
               }
             },
             "Section Two": {
-              "themeName": "SystemKit-Light-Section Two",
+              "themeName": "NewsKit-Light-Section Two",
               "children": {},
               "tokens": {
                 "inkBrand010": "25f2a5436c0a398bb73b9fe9a8db389e7ee9572f",
@@ -58,7 +58,7 @@
               }
             },
             "Section Three": {
-              "themeName": "SystemKit-Light-Section Three",
+              "themeName": "NewsKit-Light-Section Three",
               "children": {},
               "tokens": {
                 "inkBrand010": "38b2acb6d3337637403be8a678108187d3b19353",
@@ -80,14 +80,6 @@
                 "sectionThree100": "0185b90401077307a93fc28613cd00383a0cbdd4",
                 "interfaceBrand010": "a203580373ffdd65d04055721a891e276d4a8f5a",
                 "interfaceBrand020": "a2ab77504a737faa151966c97b546ec78a01a59d"
-              }
-            },
-            "Magic": {
-              "themeName": "SystemKit-Light-Magic",
-              "children": {},
-              "tokens": {
-                "inkBrand010": "ebd34121957bf5f4055658b095d58a60796db771",
-                "inkBrand020": "785cbac603c2c6aad24d0f92d2e48f91d055ffd5"
               }
             }
           },
@@ -304,10 +296,10 @@
           }
         },
         "Dark": {
-          "themeName": "SystemKit-Dark",
+          "themeName": "NewsKit-Dark",
           "children": {
             "Section One": {
-              "themeName": "SystemKit-Dark-Section One",
+              "themeName": "NewsKit-Dark-Section One",
               "children": {},
               "tokens": {
                 "inkBrand010": "c325b6ceeae839b0d697804a42e54683472cd746",
@@ -322,7 +314,7 @@
               }
             },
             "Section Two": {
-              "themeName": "SystemKit-Dark-Section Two",
+              "themeName": "NewsKit-Dark-Section Two",
               "children": {},
               "tokens": {
                 "interactivePrimary010": "0982b5d98c16a3de6ebbff01d8de7b9d1a39313d",
@@ -337,7 +329,7 @@
               }
             },
             "Section Three": {
-              "themeName": "SystemKit-Dark-Section Three",
+              "themeName": "NewsKit-Dark-Section Three",
               "children": {},
               "tokens": {
                 "interfaceBrand010": "9a50e2f3b3e6f221fab506d7abd3c0a19a8fe1a5",
@@ -426,13 +418,6 @@
         }
       },
       "tokens": {}
-    },
-    "Magic": {
-      "themeName": "Magic",
-      "children": {},
-      "tokens": {
-        "inkBase": "f7663574cff91b886d0ab0ae26d46ea0c953600c"
-      }
     }
   },
   "tokens": {}
