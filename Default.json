@@ -1,5 +1,13 @@
 {
   "themeName": "Default",
-  "children": {},
+  "children": {
+    "kill": {
+      "themeName": "kill",
+      "children": {},
+      "tokens": {
+        "inkBase": "163f6bbc6588eebebe2200953a203fd55ada860b"
+      }
+    }
+  },
   "tokens": {}
 }
