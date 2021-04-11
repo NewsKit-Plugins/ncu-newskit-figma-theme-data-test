@@ -2,7 +2,7 @@
   "themeName": "NewTest",
   "children": {
     "NewsKit": {
-      "themeName": "NewsKit",
+      "themeName": "NewsKit with a different name"
       "children": {
         "Light": {
           "themeName": "NewsKit-Light",
