@@ -1,11 +1,11 @@
 {
   "themeName": "NK",
   "children": {
-    "": {
-      "themeName": "NK",
+    "NK": {
+      "themeName": "NKNK",
       "children": {
         "Section One": {
-          "themeName": "NK-Section One",
+          "themeName": "NKNK-Section One",
           "children": {},
           "tokens": {
             "inkBrand010": "bf0b3eb85e4223dfa06b945ff7b5e01a43341085",
@@ -30,7 +30,7 @@
           }
         },
         "Section Two": {
-          "themeName": "NK-Section Two",
+          "themeName": "NKNK-Section Two",
           "children": {},
           "tokens": {
             "inkBrand010": "25f2a5436c0a398bb73b9fe9a8db389e7ee9572f",
@@ -55,7 +55,7 @@
           }
         },
         "Section Three": {
-          "themeName": "NK-Section Three",
+          "themeName": "NKNK-Section Three",
           "children": {},
           "tokens": {
             "inkBrand010": "38b2acb6d3337637403be8a678108187d3b19353",
@@ -80,10 +80,10 @@
           }
         },
         "Dark": {
-          "themeName": "NK-Dark",
+          "themeName": "NKNK-Dark",
           "children": {
             "Section One": {
-              "themeName": "NK-Dark-Section One",
+              "themeName": "NKNK-Dark-Section One",
               "children": {},
               "tokens": {
                 "inkBrand010": "c325b6ceeae839b0d697804a42e54683472cd746",
@@ -98,7 +98,7 @@
               }
             },
             "Section Two": {
-              "themeName": "NK-Dark-Section Two",
+              "themeName": "NKNK-Dark-Section Two",
               "children": {},
               "tokens": {
                 "interactivePrimary010": "0982b5d98c16a3de6ebbff01d8de7b9d1a39313d",
@@ -113,7 +113,7 @@
               }
             },
             "Section Three": {
-              "themeName": "NK-Dark-Section Three",
+              "themeName": "NKNK-Dark-Section Three",
               "children": {},
               "tokens": {
                 "interfaceBrand010": "9a50e2f3b3e6f221fab506d7abd3c0a19a8fe1a5",
