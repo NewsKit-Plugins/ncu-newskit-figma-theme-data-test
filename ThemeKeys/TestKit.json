@@ -1,0 +1,47 @@
+{
+  "themeName": "TestKit",
+  "children": {
+    "NK": {
+      "themeName": "",
+      "children": {},
+      "tokens": {}
+    },
+    "Section One": {
+      "themeName": "",
+      "children": {},
+      "tokens": {}
+    },
+    "Section Two": {
+      "themeName": "",
+      "children": {},
+      "tokens": {}
+    },
+    "Section Three": {
+      "themeName": "",
+      "children": {},
+      "tokens": {}
+    },
+    "Dark": {
+      "themeName": "",
+      "children": {
+        "Section One": {
+          "themeName": "Dark",
+          "children": {},
+          "tokens": {}
+        },
+        "Section Two": {
+          "themeName": "Dark",
+          "children": {},
+          "tokens": {}
+        },
+        "Section Three": {
+          "themeName": "Dark",
+          "children": {},
+          "tokens": {}
+        }
+      },
+      "tokens": {}
+    }
+  },
+  "tokens": {}
+}
