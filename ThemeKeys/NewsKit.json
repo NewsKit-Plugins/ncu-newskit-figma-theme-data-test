@@ -1,7 +1,7 @@
 {
   "themeName": "NewsKit",
   "children": {
-    "": {
+    "NK": {
       "themeName": "",
       "children": {},
       "tokens": {}
