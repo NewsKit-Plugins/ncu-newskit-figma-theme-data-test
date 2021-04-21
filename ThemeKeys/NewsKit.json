@@ -1,8 +1,8 @@
 {
   "themeName": "NewsKit",
   "children": {
-    "NK": {
-      "themeName": "NK",
+    "": {
+      "themeName": "",
       "children": {},
       "tokens": {
         "transparent": "1ab2818c0246b2c37e1b196f83a3b7a1e3647e0b",
