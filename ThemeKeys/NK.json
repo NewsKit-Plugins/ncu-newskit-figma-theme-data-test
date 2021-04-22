@@ -1,19 +1,8 @@
 {
-  "themeName": "NK",
-  "children": {
-    "Sun": {
-      "themeName": "NK-Sun-Light",
-      "children": {
-        "Light": {
-          "themeName": "NK-Sun-Light",
-          "children": {},
-          "tokens": {
-            "utilityMeta020": "f512ea63f3fc73338bc991331a032bf9073266e4"
-          }
-        }
-      },
-      "tokens": {}
-    }
+  "prefix": "NK",
+  "children": {},
+  "tokens": {
+    "utilityMeta020": "3d68439abb46f6af5f76c81ed737df744d9cedfb"
   },
-  "tokens": {}
+  "themeName": "NK"
 }
