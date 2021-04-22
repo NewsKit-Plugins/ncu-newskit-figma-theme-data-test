@@ -174,6 +174,15 @@
         "MD - Medium": "7aaea40ecb238f567c3d57373dbe114f68e4976b",
         "SM - Small": "92707c97645af07a8a2ad4e05ff43f10af7fb5f3",
         "XS - Extra Small": "89c9060e9344c98029cddcaa968511f4568637e6",
+        "borderRadiusSharp": "6f6c20cde238613095fd4048dfb390b6f5a9dab6",
+        "borderRadiusCircle": "253b70883c1aeab6cd0eed3ef2046ba5910da130",
+        "borderRadiusPill": "ca7b4287f2cdc438d2b5d0e995fb3a6941ab2a9b",
+        "borderRadiusDefault": "3dbca3513be178b6f2b9b9a1621f476ceec568d3",
+        "borderRadiusRounded010": "93e1ddf80e711fe46e684961d2a7fb9f453c9852",
+        "borderRadiusRounded020": "102b535a41b9ee28dad704efa78867b0beff87ec",
+        "borderRadiusRounded030": "9e88f5bc6a892bf38e8d800eac511e73e5fee4ac",
+        "borderRadiusRounded040": "7828da3d7d813b36b1933712e2a0d18aea50f6d4",
+        "borderRadiusRounded050": "cc7dc0ff46cc19f9bf2cf3044a06d45250b6ee0d",
         "editorialHeadline010": "f6a1816a6416c9e04a3513da3cde7a7779814b85",
         "editorialHeadline020": "1071d9057d1ed183ef65cbdab46a5c06a9e4c3cf",
         "editorialHeadline030": "29416aca8180f1edbac33f4ff580e420fe4b5a4a",
@@ -216,140 +225,128 @@
         "utilityMeta020": "3d68439abb46f6af5f76c81ed737df744d9cedfb"
       }
     },
-    "NewsKit Sections": {
-      "themeName": "NewsKit Sections",
-      "children": {
-        "Coral": {
-          "themeName": "NewsKit Sections-Coral",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "bf0b3eb85e4223dfa06b945ff7b5e01a43341085",
-            "inkBrand020": "14618c94d98423311c22cf13f0b87916a51fd063",
-            "interfaceBrand010": "f9080028037a0c05543ee693c31d0f7b4b26ceaf",
-            "interfaceBrand020": "fbfb4ce1d091238f5dfc341274e19d6ba3b5f873",
-            "interactivePrimary010": "a0d8484ac8a96b888f9d5066038aecd7ef030c0b",
-            "interactivePrimary020": "79e4af02708beb2ecdf29f53c45b3a25531b7942",
-            "interactivePrimary030": "4b17d2cb7b4ffa73d2f57dd8ad5b71ce95df0306",
-            "interactivePrimary040": "42bad388f69ca4c5657b35e4f1c3edc62dc98567",
-            "interactivePrimary050": "d2009d8ea5ce900f5a84d319f86b52dd2fab23ba",
-            "sectionOne010": "33b1fbdc6886a154740dbfafdd828b163743c347",
-            "sectionOne020": "155765bbd5162982f4c97349b6cd203783a1ebfd",
-            "sectionOne030": "4aedd9c70e8d8666b0e46fee114ea0ff8baa7923",
-            "sectionOne040": "d21fbefde33112263d5965093946d67e61e8ad57",
-            "sectionOne050": "b35b03d7aac8171132b8bcfc9f7e198e70b8a496",
-            "sectionOne060": "165e8c305be1fc24752b576237c38db3223b3f1a",
-            "sectionOne070": "6d634f91c933b1b093a2852cada7d1142f7c62b8",
-            "sectionOne080": "c311b9f8d4b56a4016000b8d5cc952a57b9b86a0",
-            "sectionOne090": "8ec919a9f85dbb3832128a66e2536516c164c9e5",
-            "sectionOne100": "8b8019f5f98ac51618fa124dc62c0d860c16f506"
-          }
-        },
-        "Teal": {
-          "themeName": "NewsKit Sections-Teal",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "25f2a5436c0a398bb73b9fe9a8db389e7ee9572f",
-            "inkBrand020": "776cd66addab4acad99d7bba818f9ed556719d7a",
-            "interactivePrimary010": "3c3bb3ec01f703ed9d34884e59c0b3befd545c9f",
-            "interactivePrimary020": "8d6b051df960535d9ce8a46bfd9c681187fe0695",
-            "interactivePrimary030": "fe520a79cbea577755262993785194b49e761413",
-            "interactivePrimary040": "8ddebc9593536b80270ea3706524b6e8e00e3009",
-            "interactivePrimary050": "ac6ca3066c0be111e9074ea54674eb119f55bcee",
-            "sectionTwo010": "95be18cbf1fbcaff0d31183d582609f82efa0163",
-            "sectionTwo020": "a36171e7d5778c057c350d9e7311e6982d59f3e1",
-            "sectionTwo030": "86e683cf5e5ff782579aeb0a26dfd474263b7465",
-            "sectionTwo040": "e1d36dcae23cdbc9e952c29bcb6082fe12692d0b",
-            "sectionTwo050": "a23111369751f099a06b27c0916664d1c3c063cf",
-            "sectionTwo060": "11c5a8208909a3e2b53dce692c6e67002d448aba",
-            "sectionTwo070": "f7fc9fbec40ef68ec36a928e71c1ebe1ef081dd3",
-            "sectionTwo080": "78beed05a558868fa8aba7ec7c916538fedeb41c",
-            "sectionTwo090": "79e273691f418731deb1808f8785dce0836d5b5c",
-            "sectionTwo100": "cff9760d11d8a10396d7ce143774c13d340d0337",
-            "interfaceBrand010": "5e0cfc47e1bda3bf5c37c702ce24f0b6a2c20777",
-            "interfaceBrand020": "5f16fe8530486d42fe68d376ae19f0a5b0f6fb9a"
-          }
-        },
-        "Navy": {
-          "themeName": "NewsKit Sections-Navy",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "38b2acb6d3337637403be8a678108187d3b19353",
-            "inkBrand020": "a57bda5d067541533ca42563e28295caf8eca348",
-            "interactivePrimary010": "0b36583be7eda5901c158acca613359589e51cbb",
-            "interactivePrimary020": "415e823906339b0f7d9e0816e4ccc48441468206",
-            "interactivePrimary030": "e7b0472b65307edd55d534031e4758d76702c178",
-            "interactivePrimary040": "37662e1eb4e20f2275260e9dcb9b90f88e330756",
-            "interactivePrimary050": "c9f4ca0d9e3e35fc9c0d91b508969f48b2cdf638",
-            "sectionThree010": "df9caf2b014ff1c56a7a33ca98dec628d42a6f56",
-            "sectionThree020": "80dd447ecbf9db55f4ad37463ff012d82906010a",
-            "sectionThree030": "24ef6fe778abf997e8b61a0ea948107a42c516ce",
-            "sectionThree040": "dca9171fecc88e0bc0a3ccb2743109a3c472985d",
-            "sectionThree050": "ee6663d84e320a98eaef576da3f1de1e3f9e5d2f",
-            "sectionThree060": "5f613a5a721aadbdc9c4523494483f3e482c8f8a",
-            "sectionThree070": "cadf167c49af4b9fc81bf0a87aa79df2acd3ac25",
-            "sectionThree080": "a0722e952579fbd126b9de516f868bb4944147a8",
-            "sectionThree090": "3f4bb1d5b3eb1678a2c06a587ba086c9d8305131",
-            "sectionThree100": "0185b90401077307a93fc28613cd00383a0cbdd4",
-            "interfaceBrand010": "a203580373ffdd65d04055721a891e276d4a8f5a",
-            "interfaceBrand020": "a2ab77504a737faa151966c97b546ec78a01a59d"
-          }
-        }
-      },
-      "tokens": {}
+    "Coral": {
+      "themeName": "Coral",
+      "children": {},
+      "tokens": {
+        "inkBrand010": "bf0b3eb85e4223dfa06b945ff7b5e01a43341085",
+        "inkBrand020": "14618c94d98423311c22cf13f0b87916a51fd063",
+        "interfaceBrand010": "f9080028037a0c05543ee693c31d0f7b4b26ceaf",
+        "interfaceBrand020": "fbfb4ce1d091238f5dfc341274e19d6ba3b5f873",
+        "interactivePrimary010": "a0d8484ac8a96b888f9d5066038aecd7ef030c0b",
+        "interactivePrimary020": "79e4af02708beb2ecdf29f53c45b3a25531b7942",
+        "interactivePrimary030": "4b17d2cb7b4ffa73d2f57dd8ad5b71ce95df0306",
+        "interactivePrimary040": "42bad388f69ca4c5657b35e4f1c3edc62dc98567",
+        "interactivePrimary050": "d2009d8ea5ce900f5a84d319f86b52dd2fab23ba",
+        "sectionOne010": "33b1fbdc6886a154740dbfafdd828b163743c347",
+        "sectionOne020": "155765bbd5162982f4c97349b6cd203783a1ebfd",
+        "sectionOne030": "4aedd9c70e8d8666b0e46fee114ea0ff8baa7923",
+        "sectionOne040": "d21fbefde33112263d5965093946d67e61e8ad57",
+        "sectionOne050": "b35b03d7aac8171132b8bcfc9f7e198e70b8a496",
+        "sectionOne060": "165e8c305be1fc24752b576237c38db3223b3f1a",
+        "sectionOne070": "6d634f91c933b1b093a2852cada7d1142f7c62b8",
+        "sectionOne080": "c311b9f8d4b56a4016000b8d5cc952a57b9b86a0",
+        "sectionOne090": "8ec919a9f85dbb3832128a66e2536516c164c9e5",
+        "sectionOne100": "8b8019f5f98ac51618fa124dc62c0d860c16f506"
+      }
+    },
+    "Teal": {
+      "themeName": "Teal",
+      "children": {},
+      "tokens": {
+        "inkBrand010": "25f2a5436c0a398bb73b9fe9a8db389e7ee9572f",
+        "inkBrand020": "776cd66addab4acad99d7bba818f9ed556719d7a",
+        "interactivePrimary010": "3c3bb3ec01f703ed9d34884e59c0b3befd545c9f",
+        "interactivePrimary020": "8d6b051df960535d9ce8a46bfd9c681187fe0695",
+        "interactivePrimary030": "fe520a79cbea577755262993785194b49e761413",
+        "interactivePrimary040": "8ddebc9593536b80270ea3706524b6e8e00e3009",
+        "interactivePrimary050": "ac6ca3066c0be111e9074ea54674eb119f55bcee",
+        "sectionTwo010": "95be18cbf1fbcaff0d31183d582609f82efa0163",
+        "sectionTwo020": "a36171e7d5778c057c350d9e7311e6982d59f3e1",
+        "sectionTwo030": "86e683cf5e5ff782579aeb0a26dfd474263b7465",
+        "sectionTwo040": "e1d36dcae23cdbc9e952c29bcb6082fe12692d0b",
+        "sectionTwo050": "a23111369751f099a06b27c0916664d1c3c063cf",
+        "sectionTwo060": "11c5a8208909a3e2b53dce692c6e67002d448aba",
+        "sectionTwo070": "f7fc9fbec40ef68ec36a928e71c1ebe1ef081dd3",
+        "sectionTwo080": "78beed05a558868fa8aba7ec7c916538fedeb41c",
+        "sectionTwo090": "79e273691f418731deb1808f8785dce0836d5b5c",
+        "sectionTwo100": "cff9760d11d8a10396d7ce143774c13d340d0337",
+        "interfaceBrand010": "5e0cfc47e1bda3bf5c37c702ce24f0b6a2c20777",
+        "interfaceBrand020": "5f16fe8530486d42fe68d376ae19f0a5b0f6fb9a"
+      }
+    },
+    "Navy": {
+      "themeName": "Navy",
+      "children": {},
+      "tokens": {
+        "inkBrand010": "38b2acb6d3337637403be8a678108187d3b19353",
+        "inkBrand020": "a57bda5d067541533ca42563e28295caf8eca348",
+        "interactivePrimary010": "0b36583be7eda5901c158acca613359589e51cbb",
+        "interactivePrimary020": "415e823906339b0f7d9e0816e4ccc48441468206",
+        "interactivePrimary030": "e7b0472b65307edd55d534031e4758d76702c178",
+        "interactivePrimary040": "37662e1eb4e20f2275260e9dcb9b90f88e330756",
+        "interactivePrimary050": "c9f4ca0d9e3e35fc9c0d91b508969f48b2cdf638",
+        "sectionThree010": "df9caf2b014ff1c56a7a33ca98dec628d42a6f56",
+        "sectionThree020": "80dd447ecbf9db55f4ad37463ff012d82906010a",
+        "sectionThree030": "24ef6fe778abf997e8b61a0ea948107a42c516ce",
+        "sectionThree040": "dca9171fecc88e0bc0a3ccb2743109a3c472985d",
+        "sectionThree050": "ee6663d84e320a98eaef576da3f1de1e3f9e5d2f",
+        "sectionThree060": "5f613a5a721aadbdc9c4523494483f3e482c8f8a",
+        "sectionThree070": "cadf167c49af4b9fc81bf0a87aa79df2acd3ac25",
+        "sectionThree080": "a0722e952579fbd126b9de516f868bb4944147a8",
+        "sectionThree090": "3f4bb1d5b3eb1678a2c06a587ba086c9d8305131",
+        "sectionThree100": "0185b90401077307a93fc28613cd00383a0cbdd4",
+        "interfaceBrand010": "a203580373ffdd65d04055721a891e276d4a8f5a",
+        "interfaceBrand020": "a2ab77504a737faa151966c97b546ec78a01a59d"
+      }
     },
     "Dark": {
       "themeName": "Dark",
       "children": {
-        "NewsKit Sections": {
-          "themeName": "Dark-NewsKit Sections",
-          "children": {
-            "Coral": {
-              "themeName": "Dark-NewsKit Sections-Coral",
-              "children": {},
-              "tokens": {
-                "inkBrand010": "c325b6ceeae839b0d697804a42e54683472cd746",
-                "inkBrand020": "a4554ed1a647c05c79a70f12221eb7616f8bd377",
-                "interfaceBrand010": "6c97826f81ff099c4655ac694b5b6c306f6e56e1",
-                "interfaceBrand020": "d05c0ce06e4e909483021dd3c4e5e055d871ef2a",
-                "interactivePrimary010": "664add8a9ef3ceb0d1c7331bee79bd5131aa4809",
-                "interactivePrimary020": "3d26bce3877b4aa05c0816da3b38f36e67b6cb95",
-                "interactivePrimary030": "c1de502840694efdc6c064629108fc95f7c31109",
-                "interactivePrimary040": "47c31160dde54b87172ae057f4b8fb44fe7d0113",
-                "interactivePrimary050": "fe1128dcac414ed4663bfd165c9c022ec0d3983e"
-              }
-            },
-            "Teal": {
-              "themeName": "Dark-NewsKit Sections-Teal",
-              "children": {},
-              "tokens": {
-                "interactivePrimary010": "0982b5d98c16a3de6ebbff01d8de7b9d1a39313d",
-                "interactivePrimary020": "ff6a6de472455b165f85e5b80eb603d29d5ce748",
-                "interactivePrimary030": "2ffcf444b28a4cf90a8c8d5c6451c2a7474cbeb7",
-                "interactivePrimary040": "0cef5e7985372e0afe31e318d84908639ce91a27",
-                "interactivePrimary050": "24efb2e5963c0c57be653206d59379e632426135",
-                "inkBrand010": "5c84ffadbbf62f26eebbf1f648a740daca60852b",
-                "inkBrand020": "c1a8d895dceafd85ccecd71fd7ac9ea6e93e8a2e",
-                "interfaceBrand010": "36a8470dcb4c139a14c0d4c946f770fd0b362695",
-                "interfaceBrand020": "914c031ceec738bd5d51d7fd52f03ffe2f0d1d2d"
-              }
-            },
-            "Navy": {
-              "themeName": "Dark-NewsKit Sections-Navy",
-              "children": {},
-              "tokens": {
-                "interfaceBrand010": "9a50e2f3b3e6f221fab506d7abd3c0a19a8fe1a5",
-                "interfaceBrand020": "5682e0551372ebcc69f2af0299e179ddc8e67c73",
-                "inkBrand010": "20f75ecbb9c5f323b7c3029eb54a8a9841d6a126",
-                "inkBrand020": "96a5e3ec164c1a64e4bf48084729af2cbf4f7eb2",
-                "interactivePrimary010": "6b6ebf3103f6bdf7e96c3cd46733e3fd2a424fe0",
-                "interactivePrimary020": "70ace7ba2425753ade2eb5924d4f5c8d7b660b57",
-                "interactivePrimary030": "cb54dc8b828cc77245bac644ec91668ca599e889",
-                "interactivePrimary040": "1485e3f806447c68f6b41cc7aad11799c4da916d",
-                "interactivePrimary050": "d71ec3797158326379aa3335ec037c4b30f0d658"
-              }
-            }
-          },
-          "tokens": {}
+        "Coral": {
+          "themeName": "Dark-Coral",
+          "children": {},
+          "tokens": {
+            "inkBrand010": "c325b6ceeae839b0d697804a42e54683472cd746",
+            "inkBrand020": "a4554ed1a647c05c79a70f12221eb7616f8bd377",
+            "interfaceBrand010": "6c97826f81ff099c4655ac694b5b6c306f6e56e1",
+            "interfaceBrand020": "d05c0ce06e4e909483021dd3c4e5e055d871ef2a",
+            "interactivePrimary010": "664add8a9ef3ceb0d1c7331bee79bd5131aa4809",
+            "interactivePrimary020": "3d26bce3877b4aa05c0816da3b38f36e67b6cb95",
+            "interactivePrimary030": "c1de502840694efdc6c064629108fc95f7c31109",
+            "interactivePrimary040": "47c31160dde54b87172ae057f4b8fb44fe7d0113",
+            "interactivePrimary050": "fe1128dcac414ed4663bfd165c9c022ec0d3983e"
+          }
+        },
+        "Teal": {
+          "themeName": "Dark-Teal",
+          "children": {},
+          "tokens": {
+            "interactivePrimary010": "0982b5d98c16a3de6ebbff01d8de7b9d1a39313d",
+            "interactivePrimary020": "ff6a6de472455b165f85e5b80eb603d29d5ce748",
+            "interactivePrimary030": "2ffcf444b28a4cf90a8c8d5c6451c2a7474cbeb7",
+            "interactivePrimary040": "0cef5e7985372e0afe31e318d84908639ce91a27",
+            "interactivePrimary050": "24efb2e5963c0c57be653206d59379e632426135",
+            "inkBrand010": "5c84ffadbbf62f26eebbf1f648a740daca60852b",
+            "inkBrand020": "c1a8d895dceafd85ccecd71fd7ac9ea6e93e8a2e",
+            "interfaceBrand010": "36a8470dcb4c139a14c0d4c946f770fd0b362695",
+            "interfaceBrand020": "914c031ceec738bd5d51d7fd52f03ffe2f0d1d2d"
+          }
+        },
+        "Navy": {
+          "themeName": "Dark-Navy",
+          "children": {},
+          "tokens": {
+            "interfaceBrand010": "9a50e2f3b3e6f221fab506d7abd3c0a19a8fe1a5",
+            "interfaceBrand020": "5682e0551372ebcc69f2af0299e179ddc8e67c73",
+            "inkBrand010": "20f75ecbb9c5f323b7c3029eb54a8a9841d6a126",
+            "inkBrand020": "96a5e3ec164c1a64e4bf48084729af2cbf4f7eb2",
+            "interactivePrimary010": "6b6ebf3103f6bdf7e96c3cd46733e3fd2a424fe0",
+            "interactivePrimary020": "70ace7ba2425753ade2eb5924d4f5c8d7b660b57",
+            "interactivePrimary030": "cb54dc8b828cc77245bac644ec91668ca599e889",
+            "interactivePrimary040": "1485e3f806447c68f6b41cc7aad11799c4da916d",
+            "interactivePrimary050": "d71ec3797158326379aa3335ec037c4b30f0d658"
+          }
         }
       },
       "tokens": {
