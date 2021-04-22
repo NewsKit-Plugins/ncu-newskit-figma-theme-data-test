@@ -1,17 +1,17 @@
 {
   "themeName": "The Sun Test",
   "children": {
-    "NK": {
-      "themeName": "NK",
+    "": {
+      "themeName": "",
       "children": {
         "Sun": {
-          "themeName": "NK-Sun",
+          "themeName": "-Sun",
           "children": {
             "Light": {
-              "themeName": "NK-Sun-Light",
+              "themeName": "-Sun-Light",
               "children": {
                 "Fabulous": {
-                  "themeName": "NK-Sun-Light-Fabulous",
+                  "themeName": "-Sun-Light-Fabulous",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "125b08f0b27d417cd3b46810861393030217b290",
@@ -30,7 +30,7 @@
                   }
                 },
                 "Football": {
-                  "themeName": "NK-Sun-Light-Football",
+                  "themeName": "-Sun-Light-Football",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "d388d20b154c88d57270bfe41e7b7d9a97e8ac95",
@@ -49,7 +49,7 @@
                   }
                 },
                 "Money": {
-                  "themeName": "NK-Sun-Light-Money",
+                  "themeName": "-Sun-Light-Money",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "248a4fa829c193443534140d7854343d55ebe47b",
@@ -68,7 +68,7 @@
                   }
                 },
                 "Motors": {
-                  "themeName": "NK-Sun-Light-Motors",
+                  "themeName": "-Sun-Light-Motors",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "8212ad2c747c5deedfe797544f626accc63e3288",
@@ -87,7 +87,7 @@
                   }
                 },
                 "News": {
-                  "themeName": "NK-Sun-Light-News",
+                  "themeName": "-Sun-Light-News",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "659486b2721a27f0b8a1501f7dc2726786a6007c",
@@ -106,7 +106,7 @@
                   }
                 },
                 "Showbiz": {
-                  "themeName": "NK-Sun-Light-Showbiz",
+                  "themeName": "-Sun-Light-Showbiz",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "ee3ed1cfac14da5d4fc3a5bcb5a0fd7a1bb91364",
@@ -125,7 +125,7 @@
                   }
                 },
                 "TV": {
-                  "themeName": "NK-Sun-Light-TV",
+                  "themeName": "-Sun-Light-TV",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "98c012a1740dbbb78e3ec2e31ec53a939551a8e8",
@@ -144,7 +144,7 @@
                   }
                 },
                 "Sport": {
-                  "themeName": "NK-Sun-Light-Sport",
+                  "themeName": "-Sun-Light-Sport",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "85cf0c910047e3982222eaa99c046772d385bcb7",
@@ -163,7 +163,7 @@
                   }
                 },
                 "Tech": {
-                  "themeName": "NK-Sun-Light-Tech",
+                  "themeName": "-Sun-Light-Tech",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "9d9ae15f4644bdd8ed94403e19538d2f64dde58d",
@@ -182,7 +182,7 @@
                   }
                 },
                 "Travel": {
-                  "themeName": "NK-Sun-Light-Travel",
+                  "themeName": "-Sun-Light-Travel",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "50fc66ffb578219672605fc434b5769b2c6207ec",
@@ -201,7 +201,7 @@
                   }
                 },
                 "Lifestyle": {
-                  "themeName": "NK-Sun-Light-Lifestyle",
+                  "themeName": "-Sun-Light-Lifestyle",
                   "children": {},
                   "tokens": {
                     "inkBrand020": "cc7c46969d56cf1c7c0d9b3fa166e384bd48a606",
