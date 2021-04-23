@@ -1,1 +1,1 @@
-Hello World
+This is a repository containing Theme data for the ThemeSwapper plugin
