@@ -3,7 +3,80 @@
   "children": {
     "TNL": {
       "themeName": "TNL",
-      "children": {},
+      "children": {
+        "News": {
+          "themeName": "TNL-News",
+          "children": {},
+          "tokens": {
+            "news010": "8803e5999e28f10043b95f74a08dbb82791269e3",
+            "inkBrand010": "16299a02515c5b3356b3425e94f1b780fd67d6b7",
+            "interfaceBrand010": "f39fcee84551ca92c2c33f0407e527860d05c632"
+          }
+        },
+        "Comment": {
+          "themeName": "TNL-Comment",
+          "children": {},
+          "tokens": {
+            "comment010": "287fef47dcd25ab19662309d746fb91b87673217",
+            "interfaceBrand010": "91a43ac989e12fa379d04180fb5a3775e0b84ea9",
+            "inkBrand010": "b706ac03e04754e4248ac087a3c818f6f62e133d"
+          }
+        },
+        "World": {
+          "themeName": "TNL-World",
+          "children": {},
+          "tokens": {
+            "world010": "f34408a1526a920f3975cad52dd6dced07710bca",
+            "interfaceBrand010": "ca2b3c25cc3d5bb0ae4b13e5f022adff5ff2d22b",
+            "inkBrand010": "8a87c037515a7ee4b1670c64fe4f26ab76001240"
+          }
+        },
+        "Business": {
+          "themeName": "TNL-Business",
+          "children": {},
+          "tokens": {
+            "business010": "5509ccf9265f9216faa7c4af2e9b335cc7d3b729",
+            "interfaceBrand010": "550ed72915536f83d7221b449fb7b03a2ff292d9",
+            "inkBrand010": "2b5b1e6d28082a98e36b8dad6c5ac38f020e213e"
+          }
+        },
+        "Sport": {
+          "themeName": "TNL-Sport",
+          "children": {},
+          "tokens": {
+            "sport010": "52c4f37ee4f0fabfc58700ca4d0f70cc6d834ba7",
+            "interfaceBrand010": "4e6a8236472c60231449a700564d5e4254fd893a",
+            "inkBrand010": "3e6bc976dbb180068f12f9abfeeeab23466137dd"
+          }
+        },
+        "Register": {
+          "themeName": "TNL-Register",
+          "children": {},
+          "tokens": {
+            "register010": "942259936cda70ca115ec577a71f3f59bd294e35",
+            "interfaceBrand010": "c50299063cf1586ab85876d57b78ec29f242d4bb",
+            "inkBrand010": "3c78c67de280fce3dc4bf4973f56a616d21be18c"
+          }
+        },
+        "Puzzles": {
+          "themeName": "TNL-Puzzles",
+          "children": {},
+          "tokens": {
+            "puzzles010": "175d57eb6ea12d01a5b75eb2b86f1bbffa681b73",
+            "interfaceBrand010": "680292a9ac9b01c835cb053ad88dfef26cbdebf2",
+            "inkBrand010": "c3aafabc6b958a122d475fd98acf69325574c09a"
+          }
+        },
+        "Times2": {
+          "themeName": "TNL-Times2",
+          "children": {},
+          "tokens": {
+            "times2010": "a032285e9813d00fa302a7c440ef6c05e40fb3cc",
+            "interfaceBrand010": "c25cbec2b4d2b0061eb322225ea2e9802b63fc83",
+            "inkBrand010": "8c115ca5b906f42323ad690b759f67dfd4fc4687"
+          }
+        }
+      },
       "tokens": {
         "transparent": "9696462ac71c9f311124755bab4496c12cbce3f9",
         "overlayTintBase010": "1fd3171ab99626448ed098ca6e2c7cf781bb46b8",
