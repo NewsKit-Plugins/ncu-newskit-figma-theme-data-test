@@ -1,11 +1,11 @@
 {
   "themeName": "NK Web Gallery - Light",
   "children": {
-    "NK Site ": {
-      "themeName": "NK Site ",
+    "Website ": {
+      "themeName": "Website ",
       "children": {
-        " Base Light": {
-          "themeName": "NK Site - Base Light",
+        " Light": {
+          "themeName": "Website - Light",
           "children": {},
           "tokens": {
             "transparent": "16752598903a21f76bebe22c9f4973751efabdbe",
@@ -181,8 +181,8 @@
             "whiteTint090": "524a013c11dd059a0fb4ed903bb0c020bf79a82e"
           }
         },
-        " Base Dark": {
-          "themeName": "NK Site - Base Dark",
+        " Dark": {
+          "themeName": "Website - Dark",
           "children": {},
           "tokens": {
             "inkBase": "3a2bb0065959a65c357e0c1b7f3775dfdb90becb",
@@ -252,7 +252,7 @@
           }
         },
         " Foundations Light": {
-          "themeName": "NK Site - Foundations Light",
+          "themeName": "Website - Foundations Light",
           "children": {},
           "tokens": {
             "inkBrand010": "9c658654819065cd7b280335bb7f2c63ea12910e",
@@ -265,7 +265,7 @@
           }
         },
         " Foundations Dark": {
-          "themeName": "NK Site - Foundations Dark",
+          "themeName": "Website - Foundations Dark",
           "children": {},
           "tokens": {
             "inkBrand010": "04a7fe61ff833e72e14a01a59e21c2dceae5ba2f",
@@ -278,7 +278,7 @@
           }
         },
         " Patterns Light": {
-          "themeName": "NK Site - Patterns Light",
+          "themeName": "Website - Patterns Light",
           "children": {},
           "tokens": {
             "inkBrand010": "ff6dba4f4bcc6536e94a567fbbe02731208b25df",
@@ -291,7 +291,7 @@
           }
         },
         " Patterns Dark": {
-          "themeName": "NK Site - Patterns Dark",
+          "themeName": "Website - Patterns Dark",
           "children": {},
           "tokens": {
             "inkBrand010": "472cd0fdeebbb294f80a95acea2bbbb1a6aef7e8",
@@ -304,7 +304,7 @@
           }
         },
         " Accessibility Light": {
-          "themeName": "NK Site - Accessibility Light",
+          "themeName": "Website - Accessibility Light",
           "children": {},
           "tokens": {
             "inkBrand010": "b2934d9e48a323bb01eee9e29bf018571a8768d7",
@@ -317,7 +317,7 @@
           }
         },
         " Accessibility Dark": {
-          "themeName": "NK Site - Accessibility Dark",
+          "themeName": "Website - Accessibility Dark",
           "children": {},
           "tokens": {
             "interfaceBrand010": "1614cb6c5e6f648921a310d0b4db09e123d7c2eb",
