@@ -4,8 +4,8 @@
     "TalkSport": {
       "themeName": "TalkSport",
       "children": {
-        "Light": {
-          "themeName": "TalkSport-Light",
+        "TalkSport Light": {
+          "themeName": "TalkSport-TalkSport Light",
           "children": {},
           "tokens": {
             "transparent": "2ac5fcb704e1443fe5092d37e4614002354cc717",
