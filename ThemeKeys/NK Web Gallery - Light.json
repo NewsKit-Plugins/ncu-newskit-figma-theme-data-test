@@ -519,11 +519,11 @@
       },
       "tokens": {}
     },
-    "NewsKit Website GraphicDark": {
-      "themeName": "NewsKit Website GraphicDark",
+    "NewsKit Website Graphic Dark": {
+      "themeName": "NewsKit Website Graphic Dark",
       "children": {
         "Foundations": {
-          "themeName": "NewsKit Website GraphicDark-Foundations",
+          "themeName": "NewsKit Website Graphic Dark-Foundations",
           "children": {},
           "tokens": {
             "Palette010": "9a5ae04253041a3725d4d79239fa8b210811bcbd",
@@ -561,7 +561,7 @@
           }
         },
         "Components": {
-          "themeName": "NewsKit Website GraphicDark-Components",
+          "themeName": "NewsKit Website Graphic Dark-Components",
           "children": {},
           "tokens": {
             "Palette010": "2e78c9f405c8fbd5df0491c744c6c2ef8ca981e9",
@@ -598,7 +598,7 @@
           }
         },
         "Patterns": {
-          "themeName": "NewsKit Website GraphicDark-Patterns",
+          "themeName": "NewsKit Website Graphic Dark-Patterns",
           "children": {},
           "tokens": {
             "Palette010": "f3bc1c4ddfcc89fec163ddfbef9c09b4ea54c893",
