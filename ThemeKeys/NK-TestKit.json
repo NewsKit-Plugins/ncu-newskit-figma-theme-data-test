@@ -1,5 +1,21 @@
 {
   "themeName": "NK-TestKit",
-  "children": {},
+  "children": {
+    "TestKit": {
+      "themeName": "TestKit",
+      "children": {},
+      "tokens": {
+        "borderRadiusDefault": "64e95ec85e09dadc392593372853ff99a7214de1",
+        "borderRadiusSharp": "4af110a870cfc61d4aace2602d60d6f20b7ccf1b",
+        "borderRadiusRounded010": "9a44fb9a5bfc30857d70db49c07e2e9607f1a52d",
+        "borderRadiusRounded020": "750de1b03da61c55adba8389a961eeb4407702d5",
+        "borderRadiusRounded030": "aabc4099f9e90748a33b0ea3e820d781a91d3436",
+        "borderRadiusRounded040": "9f631484dcd15ef811cab64bc3bea924bfd060e7",
+        "borderRadiusRounded050": "afa1a3243e3174675b33bd6eade897f13d5a5c3f",
+        "borderRadiusPill": "7e28d2d8c0e7b62ca1b06961f864530a74441174",
+        "borderRadiusCircle": "3e5981a9cdeab2a9953595b68bf44c2409bc84cd"
+      }
+    }
+  },
   "tokens": {}
 }
