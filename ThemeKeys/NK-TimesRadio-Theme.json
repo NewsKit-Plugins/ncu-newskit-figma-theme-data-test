@@ -4,8 +4,8 @@
     "TimesRadio": {
       "themeName": "TimesRadio",
       "children": {
-        "Light": {
-          "themeName": "TimesRadio-Light",
+        "TimesRadio Light": {
+          "themeName": "TimesRadio-TimesRadio Light",
           "children": {},
           "tokens": {
             "inkBase": "5ae7494aee5e41ed9c62d2e836f45e19adde4b80",
