@@ -67,7 +67,16 @@
             "interactiveInverse020": "7259a28cce2db85c3bba8787f5e4f270447d866e",
             "interactiveInverse030": "6759032937fc4b038e2c3465fd9b8d70a277007f",
             "interactiveInverse040": "a8d486a92275b0911d51442dbe472520860038d7",
-            "interactiveInverse050": "dcb452794a70ccbf4547227d4aea386cd19574d3"
+            "interactiveInverse050": "dcb452794a70ccbf4547227d4aea386cd19574d3",
+            "advertisingImage": "9b3225c06ff93368a06174bd3ea2db4eff283e6d",
+            "placeholderImage": "bd589bd23ee03e03793d5f82dff905faad74b90e",
+            "placeholderImageInverse": "afd402f6fbdb333582d7905544d2252d2575e1f7",
+            "brandmarkHorizontal": "2dd9aa4b2fa8da1fdc40234c353ff4e86c66afe0",
+            "brandmarkHorizontalInverse": "26390b88d680bcf5a4cebd1bc24624ba0f421834",
+            "brandmarkVertical": "e3f6d568a1681622d4bd5eb1a9da8b6e08a50689",
+            "brandmarkVerticalInverse": "f4dbbc3d5217e0a0e9487decbb31e7d2b2bf8bf1",
+            "glyph": "f802489da62c594ff992630214ff870158a558a1",
+            "glyphInverse": "70ffc4fe9ba1daa4032b0a0579d2807bba44b8e9"
           }
         }
       },
@@ -144,6 +153,15 @@
         "interactiveInverse030": "4beacd39863975f3653600f36a879a254d71a00d",
         "interactiveInverse040": "92462955794a658c4ec26025fc88e55b2e5e1e7a",
         "interactiveInverse050": "7bba812d2ff624f720adeda3389212a875cbeb25",
+        "advertisingImage": "1e9033c7d12958e8ae72749cd353da791c415835",
+        "placeholderImage": "2c34436fa1bb898abbf6880cfe2e96adefcfb756",
+        "placeholderImageInverse": "ef7b311b9ababb5f2a79d496a3d23b6b1dbe166a",
+        "brandmarkHorizontal": "b3a1480a7ce1106fd533cd09878a26767f14ba98",
+        "brandmarkHorizontalInverse": "6e3e7b98300634cdd15926f76939abca7db180cd",
+        "brandmarkVertical": "40fac9b3c5b109086b23b63613def0c4b2b43b07",
+        "brandmarkVerticalInverse": "f5ed9918150f440c1125d16ac0a8c962ce0acb0d",
+        "glyph": "3490d5f9bfde29ac11d569de0c5e5ef3f6244eba",
+        "glyphInverse": "94b777018bb44807460df6bc5ebbd23de2d76475",
         "purple100": "6c8f34856fef64c3e508d1716dbc57ed11f80e74",
         "purple090": "9d46948684f55321e4f059cd3b641b6c22871770",
         "purple080": "b725125bf733ed4059a8e275ea0c6965e648aab2",
