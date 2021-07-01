@@ -30,6 +30,19 @@
             "interfaceBrand050": "f27eb82cd1698bd3c99030603ea47c533fd1f2e2"
           }
         },
+        "Accessibility": {
+          "themeName": "NewsKit Website-Accessibility",
+          "children": {},
+          "tokens": {
+            "inkBrand010": "eae2444d7e8dddd53b9cff0cc72d550033c61a4a",
+            "inkBrand020": "bc56eb219a2a1edd0dcd0dacb741a129a8228d8f",
+            "interfaceBrand010": "9e6d2a8967d8468f56a38be21473b96b0508a75c",
+            "interfaceBrand020": "f8ee2202a6e5050613941d449a0f4a85b53e3053",
+            "interfaceBrand030": "eb3234ce64c2efc09486121584d3ae4a380e2e89",
+            "interfaceBrand040": "7802bca74635de3644b04dbd4b91e61f261cbc2c",
+            "interfaceBrand050": "61fe0d6b5f17a98f0c29245e97eda312624d6b0c"
+          }
+        },
         "Dark": {
           "themeName": "NewsKit Website-Dark",
           "children": {},
