@@ -30,8 +30,8 @@
             "interfaceBrand050": "f27eb82cd1698bd3c99030603ea47c533fd1f2e2"
           }
         },
-        "Accessibility": {
-          "themeName": "NewsKit Website-Accessibility",
+        "Dark": {
+          "themeName": "NewsKit Website-Dark",
           "children": {},
           "tokens": {
             "inkBase": "3a2bb0065959a65c357e0c1b7f3775dfdb90becb",
@@ -281,6 +281,7 @@
         "shadow060": "0759b0fe3ee5b4477416a42fc95cc026e6f61887",
         "XL - Extra large (Sidebar)": "dfc4692de785b2c463156fdf544b7f51b706f5f4",
         "XL - Extra large": "6ac20b45446496c450f6116ffb67d4510de77f52",
+        "LG - Large (Sidebar)": "3d91a3cf0a1f58710dab906527fabeef9b844db8",
         "LG - Large": "2655b45c5ca29b17b0e98003ac93ffef136464a6",
         "MD - Medium": "19c9a19d1d9f5ba2e6c2b3638837cf1b6be25ba3",
         "SM - Small": "1d2f394a5f4f2c916edd4d5b229994dd15f4c874",
@@ -388,13 +389,13 @@
           "themeName": "NewsKit Website Dark-Accessibility",
           "children": {},
           "tokens": {
+            "inkBrand010": "b341e4a1df440a4af19d6731998268df4173db1d",
+            "inkBrand020": "58637e51235025e2b793f9e6ca3cb18509575f01",
             "interfaceBrand010": "1614cb6c5e6f648921a310d0b4db09e123d7c2eb",
             "interfaceBrand020": "4702696c14903c5dfa13f70ad68079b2d7c63ca9",
             "interfaceBrand030": "b04ed722d34f099031ef0f4bb296a3ed9cfcd024",
             "interfaceBrand040": "3c31a004ff81fa8d10e446cdf43ae0343e7f533e",
-            "interfaceBrand050": "e95f2d3e96f1c5c5b2e9ced264e5f050ac9dbee6",
-            "inkBrand010": "b341e4a1df440a4af19d6731998268df4173db1d",
-            "inkBrand020": "58637e51235025e2b793f9e6ca3cb18509575f01"
+            "interfaceBrand050": "e95f2d3e96f1c5c5b2e9ced264e5f050ac9dbee6"
           }
         }
       },
