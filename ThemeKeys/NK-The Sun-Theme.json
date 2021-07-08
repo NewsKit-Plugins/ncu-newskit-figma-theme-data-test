@@ -207,6 +207,8 @@
             }
           },
           "tokens": {
+            "overlayGradientBaseHoriztonal": "8163ce4dbbd9365d0adef16a52c349665f0ecf62",
+            "overlayGradientBaseVertical": "3935dd8ba224b31e5d8bee04634099a2e9302eb6",
             "inkBase": "f4bfbfb1f268d78b06c768f84863ad09e58b6ae9",
             "inkContrast": "b362eca66841c1d75234f86d02f0f6c98bfb14a4",
             "inkSubtle": "f10220d6d7bb49f398391e93bd3e36a1ab3fdb4d",
@@ -264,9 +266,7 @@
             "interactiveInverse020": "302df7ba0a84b98d8e9c005a1d80f36a28409a59",
             "interactiveInverse030": "2802f04f1a28980a27b555c8dd59f426f9add48c",
             "interactiveInverse040": "5a050de8add7952c217ac454c7025085c3bb8605",
-            "interactiveInverse050": "af2591ee74b4725f6d4fc536541d6bb3b58c75ce",
-            "overlayGradientBaseHoriztonal": "8163ce4dbbd9365d0adef16a52c349665f0ecf62",
-            "overlayGradientBaseVertical": "3935dd8ba224b31e5d8bee04634099a2e9302eb6"
+            "interactiveInverse050": "af2591ee74b4725f6d4fc536541d6bb3b58c75ce"
           }
         }
       },
