@@ -102,6 +102,170 @@
             "interfaceBrand020": "bd91436c41031233a04ddb476cdc91dab2e36f94",
             "interfaceBrand010": "004451bba18235b73cdb8b938ae4c2de7552efa6"
           }
+        },
+        "TheSun Dark": {
+          "themeName": "TheSun-TheSun Dark",
+          "children": {
+            "Fabulous": {
+              "themeName": "TheSun-TheSun Dark-Fabulous",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "2e975acd01cbd79f0fe6c9e990ae966689318af5",
+                "interfaceBrand010": "c545e597fbe963ac9c902c60228f0c5571f4a6ea",
+                "interfaceBrand020": "c2fc99e448d1bd23da59063536f691c7ddaffeb0"
+              }
+            },
+            "Football": {
+              "themeName": "TheSun-TheSun Dark-Football",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "0f03162f6dcbb6ae9d60bc6c6159e056c2ddb671",
+                "interfaceBrand010": "a1378eaa502706e41755549221711144ade7ade3",
+                "interfaceBrand020": "fb8f6adc3cf4c61cd8b96b255e2ebae531d44dd7"
+              }
+            },
+            "Money": {
+              "themeName": "TheSun-TheSun Dark-Money",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "b66918c9b6fc0bab2909404f31e39c47c0054ca6",
+                "interfaceBrand010": "8a22685c1ae89ff9a04dbf9329b528939071109a",
+                "interfaceBrand020": "8a8582b9945649f015973ef72deaa40ad905ec90"
+              }
+            },
+            "Motors": {
+              "themeName": "TheSun-TheSun Dark-Motors",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "60d3b7d0f642e52917ffddc99f4fb3fcb8afd5a6",
+                "interfaceBrand010": "6e02013524421f4d827a0fd329ab412ed73567c5",
+                "interfaceBrand020": "c7ec859827c03d4b5502b0c321901d24e033c00b"
+              }
+            },
+            "News": {
+              "themeName": "TheSun-TheSun Dark-News",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "cc3cd9ffe18bb477993a24be38bd25668bce1bb1",
+                "interfaceBrand010": "dc9530a03f5dbaaa944410e727013ed6af044c5c",
+                "interfaceBrand020": "229fb4f0d2c34d17e4fff9273ed4adc66ea9cbdf"
+              }
+            },
+            "Showbiz": {
+              "themeName": "TheSun-TheSun Dark-Showbiz",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "afc83de4e250b4b3d60c72d70e44165b6ae734d6",
+                "interfaceBrand010": "d913a178218cfc3007dda01427b4346e8bbd31e7",
+                "interfaceBrand020": "09ddcf357c872a155e828a6d403a0684da28e5e5"
+              }
+            },
+            "TV": {
+              "themeName": "TheSun-TheSun Dark-TV",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "85ae0eeeb5bdeab25fa96893f8081e88085ed821",
+                "interfaceBrand010": "e2c8f10e557e5d7e11ff0937962521e7273e612e",
+                "interfaceBrand020": "1e44f9b972a6bdb7c95a09eac9cfa26e02956212"
+              }
+            },
+            "Sport": {
+              "themeName": "TheSun-TheSun Dark-Sport",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "c096a67c6e78fb167edb8994e9f5ab306691b96b",
+                "interfaceBrand010": "e557862864d4e39bd251f96cf310d586b1eaf0f5",
+                "interfaceBrand020": "20e7b8ea474b1e39a13b43010ca45869c075679f"
+              }
+            },
+            "Tech": {
+              "themeName": "TheSun-TheSun Dark-Tech",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "2547565c34c15b959a3756a1d86ca3021335ae6c",
+                "interfaceBrand010": "fbf884148113d948a7c20c68f4105e3c91684306",
+                "interfaceBrand020": "9bcc98698a40ac7c835d338421f702dda3e04423"
+              }
+            },
+            "Travel": {
+              "themeName": "TheSun-TheSun Dark-Travel",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "b49564c8e25dd4ac5a7586dd17bcfc022a50a54d",
+                "interfaceBrand010": "6115476920f5f723bc07377e6e422d0175984b11",
+                "interfaceBrand020": "082ee7acb344e98c460bf7d4fcb8d4d902f40dd7"
+              }
+            },
+            "Lifestyle": {
+              "themeName": "TheSun-TheSun Dark-Lifestyle",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "9ad1bd2ca2c1d9e8effe73a9a8a6a32d04582202",
+                "interfaceBrand010": "28f425ec9cc69497d678f110c49483ad355b4069",
+                "interfaceBrand020": "1118071ed0cfb8fe9afa190c792760f1d9053e0a"
+              }
+            }
+          },
+          "tokens": {
+            "inkBase": "f4bfbfb1f268d78b06c768f84863ad09e58b6ae9",
+            "inkContrast": "b362eca66841c1d75234f86d02f0f6c98bfb14a4",
+            "inkSubtle": "f10220d6d7bb49f398391e93bd3e36a1ab3fdb4d",
+            "inkNonEssential": "3f5891f061765e697214ee45ff0ce586208b2e42",
+            "inkInverse": "99688a200b08e0b590c3b80adbc3003596d64cd2",
+            "inkPositive": "ed9efaee902731424f78b8166c03d6fb3609a95f",
+            "inkNegative": "83ab9e348fd0088620bc0240d7830332a9834c3b",
+            "inkNotice": "f4beb8649b2a032cc6dffe066b1f12fbf7b797c1",
+            "inkInformative010": "8158626f18b80c99590b335fc4a67c1ee10c6e9d",
+            "inkBrand020": "3749b4a8c52c45286e216b4bc7b45c178899dd76",
+            "interfaceBackground": "0dce61f909dfaa4927188a97ef0ea130fd91416c",
+            "interface010": "11911c60377a4fd7aad7ca2366be56274e69d9f4",
+            "interface020": "ef6238edeb9165a74d7bd6439f87d1e33d471cfd",
+            "interface030": "3765a161c03c2771ba733c9767843fd49b8c1092",
+            "interface040": "16f532c6d5a62dffd7cbd444d0b831de4e98f1e6",
+            "interface050": "c10a288ace8581924ab3e4e803f1dc477f27c58e",
+            "interface060": "fa9f5234b53909dadaedad4a4909777fb7879d34",
+            "interfaceBrand010": "b8e29743928ad2ac1a8091963027dddd1a200fac",
+            "interfaceBrand020": "c3f310bec6cea33577b1a8db45ea6d2f6ea65184",
+            "interfacePositive010": "e63894c5cfb082a2719fd40cf91bf2571e4ae248",
+            "interfacePositive020": "c6669be7b589da096f95c3585978c3041793241b",
+            "interfaceNegative010": "f8d62cc023b044f252c5f0fb8c016085da2da23f",
+            "interfaceNegative020": "2fd09392f7207037a608ed155fcf2c0644466627",
+            "interfaceNotice010": "cba301fd6522b866c9d9a494b6b96ec557c930f9",
+            "interfaceNotice020": "9040ab1ef5442b7b6b81938348b670946286d8e0",
+            "interfaceInformative010": "45371afdccafa6615b2c7be7fbbd8ea5f86112c1",
+            "interfaceInformative020": "24a982870e93cd0eff4f9d5a76358c56c6268236",
+            "interfaceNeutral010": "b7136af3de6f46bd58670e3dc75c9241dc60f5fc",
+            "interfaceNeutral020": "58130ee5d7fa1af65d06d12237800ae53208a85a",
+            "interfaceSkeleton010": "a6035685eb5d7da78520025d3c211d3229a88e24",
+            "interfaceSkeleton020": "902bd97502c8a639ed8247c8191255a72f18ea49",
+            "interactiveDisabled010": "faf225a654e04897f8af94789cdef7c7d0fc7820",
+            "interactiveVisited010": "4bca843272ea6b5173bf4ebc4d0c3b5c22f9c272",
+            "interactivePrimary010": "3eb34ed7ab4f882002b600f3f2f9b256498beb8b",
+            "interactivePrimary020": "2f7218359b37da702ccf7173326931918bb30d1d",
+            "interactivePrimary030": "de3e134676c8be0db1067b8c2a719a6122e7eff5",
+            "interactivePrimary040": "81736c91e278f88f12d4dee1caf450c1387d899b",
+            "interactivePrimary050": "8741e4fc63ebcabfd564dbf020812d0a7cdfbc36",
+            "interactiveSecondary010": "4b0289f2a9f2c5b4170521262757aeaf0186f81f",
+            "interactiveSecondary020": "f9b4a430a4e5b29f91af602b778601146e0d6fb1",
+            "interactiveSecondary030": "1b81585539893107e48ed9830db8827ef08f52cb",
+            "interactiveSecondary040": "e6845c985d6f69067f95e5c127fd66f44b25f27b",
+            "interactiveSecondary050": "76192e5ff381fd73f63a1549b759b4deec089f17",
+            "interactivePositive010": "f42275724c6d6d60037373cf96aff724211e11f7",
+            "interactivePositive020": "a5c8ed6211c8b055117b8e9f148ebec861be4e95",
+            "interactivePositive030": "4df6143596f1803f887643bd2ddcbd055d95d45a",
+            "interactivePositive040": "0a0394bc828fc2689aaf903a298e7389632ce326",
+            "interactivePositive050": "532a1e1763b837ee68aec1f33dc11a0971002617",
+            "interactiveNegative010": "433983059e5036185fa43e2ee5196641c6e7a9bb",
+            "interactiveNegative020": "a8cbafdaca9a1135a8e00b5c9ba1ef8ffc4da11c",
+            "interactiveNegative030": "d8f9124b6c78be42f12b48ecb7e7b557f0fd6eb7",
+            "interactiveNegative040": "402d4687583ddc8e91d58dfa77473081cb08dc74",
+            "interactiveNegative050": "92e15bf65353627c27186c3a484a5adbbab6e183",
+            "interactiveInverse010": "5efa059998272c8344b3937418c104d2611db4ac",
+            "interactiveInverse020": "302df7ba0a84b98d8e9c005a1d80f36a28409a59",
+            "interactiveInverse030": "2802f04f1a28980a27b555c8dd59f426f9add48c",
+            "interactiveInverse040": "5a050de8add7952c217ac454c7025085c3bb8605",
+            "interactiveInverse050": "af2591ee74b4725f6d4fc536541d6bb3b58c75ce"
+          }
         }
       },
       "tokens": {
