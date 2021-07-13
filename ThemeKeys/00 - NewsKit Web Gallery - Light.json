@@ -45,7 +45,47 @@
         },
         "Dark": {
           "themeName": "NewsKit Website-Dark",
-          "children": {},
+          "children": {
+            "Foundations": {
+              "themeName": "NewsKit Website-Dark-Foundations",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "04a7fe61ff833e72e14a01a59e21c2dceae5ba2f",
+                "inkBrand020": "395aa3f368c8ca8aedc04ea20e5f47139d0cdc00",
+                "interfaceBrand010": "6a6e89a058d93a468d8d0fd6feb45ad47b8dbf4a",
+                "interfaceBrand020": "25f2aefcd4cdab4ebe65d4f97d516ee01c8e8fd0",
+                "interfaceBrand030": "6f33fd54a2347e2303ac8b785cc221fce7278838",
+                "interfaceBrand040": "05f43eab058d7a4ee4f7fc7f7685678a52c3d80d",
+                "interfaceBrand050": "07a78ac1b0fb32c0f36b732f9bbbbcd056d289b0"
+              }
+            },
+            "Patterns": {
+              "themeName": "NewsKit Website-Dark-Patterns",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "472cd0fdeebbb294f80a95acea2bbbb1a6aef7e8",
+                "inkBrand020": "bc34246fd3511fc45a46d586200e7f121d00ee85",
+                "interfaceBrand010": "5ec0f5b64d0d15140971ed812dbfb9a776e5578e",
+                "interfaceBrand020": "79da57529e2cc259de9c0ed452d053e60bc57831",
+                "interfaceBrand030": "bcf6571bf87e6ed5de15687f3bf75ffa4763ce63",
+                "interfaceBrand040": "4d9d6bda0b6b3c6f9402f876d81506430e58348b",
+                "interfaceBrand050": "da2e5870a5ec8ed3a2e1033ecc90658d3feb6db0"
+              }
+            },
+            "Accessibility": {
+              "themeName": "NewsKit Website-Dark-Accessibility",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "b341e4a1df440a4af19d6731998268df4173db1d",
+                "inkBrand020": "58637e51235025e2b793f9e6ca3cb18509575f01",
+                "interfaceBrand010": "1614cb6c5e6f648921a310d0b4db09e123d7c2eb",
+                "interfaceBrand020": "4702696c14903c5dfa13f70ad68079b2d7c63ca9",
+                "interfaceBrand030": "b04ed722d34f099031ef0f4bb296a3ed9cfcd024",
+                "interfaceBrand040": "3c31a004ff81fa8d10e446cdf43ae0343e7f533e",
+                "interfaceBrand050": "e95f2d3e96f1c5c5b2e9ced264e5f050ac9dbee6"
+              }
+            }
+          },
           "tokens": {
             "inkBase": "3a2bb0065959a65c357e0c1b7f3775dfdb90becb",
             "inkContrast": "8ce53acc4267609bb97b8262de69f9d55a67174c",
@@ -376,56 +416,11 @@
         "utilityCode030": "692ecaedeb6cf9ad068a8280ad35613c5d942cd5"
       }
     },
-    "NewsKit Website Dark": {
-      "themeName": "NewsKit Website Dark",
+    "NewsKit Illustration": {
+      "themeName": "NewsKit Illustration",
       "children": {
         "Foundations": {
-          "themeName": "NewsKit Website Dark-Foundations",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "04a7fe61ff833e72e14a01a59e21c2dceae5ba2f",
-            "inkBrand020": "395aa3f368c8ca8aedc04ea20e5f47139d0cdc00",
-            "interfaceBrand010": "6a6e89a058d93a468d8d0fd6feb45ad47b8dbf4a",
-            "interfaceBrand020": "25f2aefcd4cdab4ebe65d4f97d516ee01c8e8fd0",
-            "interfaceBrand030": "6f33fd54a2347e2303ac8b785cc221fce7278838",
-            "interfaceBrand040": "05f43eab058d7a4ee4f7fc7f7685678a52c3d80d",
-            "interfaceBrand050": "07a78ac1b0fb32c0f36b732f9bbbbcd056d289b0"
-          }
-        },
-        "Patterns": {
-          "themeName": "NewsKit Website Dark-Patterns",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "472cd0fdeebbb294f80a95acea2bbbb1a6aef7e8",
-            "inkBrand020": "bc34246fd3511fc45a46d586200e7f121d00ee85",
-            "interfaceBrand010": "5ec0f5b64d0d15140971ed812dbfb9a776e5578e",
-            "interfaceBrand020": "79da57529e2cc259de9c0ed452d053e60bc57831",
-            "interfaceBrand030": "bcf6571bf87e6ed5de15687f3bf75ffa4763ce63",
-            "interfaceBrand040": "4d9d6bda0b6b3c6f9402f876d81506430e58348b",
-            "interfaceBrand050": "da2e5870a5ec8ed3a2e1033ecc90658d3feb6db0"
-          }
-        },
-        "Accessibility": {
-          "themeName": "NewsKit Website Dark-Accessibility",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "b341e4a1df440a4af19d6731998268df4173db1d",
-            "inkBrand020": "58637e51235025e2b793f9e6ca3cb18509575f01",
-            "interfaceBrand010": "1614cb6c5e6f648921a310d0b4db09e123d7c2eb",
-            "interfaceBrand020": "4702696c14903c5dfa13f70ad68079b2d7c63ca9",
-            "interfaceBrand030": "b04ed722d34f099031ef0f4bb296a3ed9cfcd024",
-            "interfaceBrand040": "3c31a004ff81fa8d10e446cdf43ae0343e7f533e",
-            "interfaceBrand050": "e95f2d3e96f1c5c5b2e9ced264e5f050ac9dbee6"
-          }
-        }
-      },
-      "tokens": {}
-    },
-    "NewsKit Website Graphic": {
-      "themeName": "NewsKit Website Graphic",
-      "children": {
-        "Foundations": {
-          "themeName": "NewsKit Website Graphic-Foundations",
+          "themeName": "NewsKit Illustration-Foundations",
           "children": {},
           "tokens": {
             "Palette010": "4e8052077a1d91173c12471250a9f4cdbb5ac176",
@@ -463,7 +458,7 @@
           }
         },
         "Components": {
-          "themeName": "NewsKit Website Graphic-Components",
+          "themeName": "NewsKit Illustration-Components",
           "children": {},
           "tokens": {
             "Palette010": "e8e9432083e214cb02959b0c82a754994bf70f98",
@@ -502,7 +497,7 @@
           }
         },
         "Patterns": {
-          "themeName": "NewsKit Website Graphic-Patterns",
+          "themeName": "NewsKit Illustration-Patterns",
           "children": {},
           "tokens": {
             "Palette100": "334dde94ea90dad1c51d776f057f03413e926d17",
@@ -539,128 +534,128 @@
             "i-AnatomyBorder010": "76fff035e4968decc2d65c937f8b82d3d31ecef8",
             "i-AnatomyBorder020": "a843836e2429cd38c5a13f233c09c2ae9047deef"
           }
-        }
-      },
-      "tokens": {}
-    },
-    "NewsKit Website Graphic Dark": {
-      "themeName": "NewsKit Website Graphic Dark",
-      "children": {
-        "Foundations": {
-          "themeName": "NewsKit Website Graphic Dark-Foundations",
-          "children": {},
-          "tokens": {
-            "Palette010": "9a5ae04253041a3725d4d79239fa8b210811bcbd",
-            "Palette020": "d981e74f6f969b9fe5c564eaf93dc6219d4fa236",
-            "Palette030": "7340343d6e4a0ec09255a1d1382e0132f683aab7",
-            "Palette040": "4928f4aa082e2bca59736c3ef383d6aa0de867b2",
-            "Palette050": "fc4f6edf0d46618f9d4f0f9da07b21a8f71a63c1",
-            "Palette060": "9363c69558c9cb042ebf09897a82c03a814c6e5f",
-            "Palette070": "53951baeef555ce5fc888c7b3ccdb425dd6608d8",
-            "Palette080": "dae305f8c41f2ead13f349d390e77aad5916aba6",
-            "Palette090": "8775f04fe8b7f91a6b348bece7caf110ba6f5c15",
-            "Palette100": "a1a1d3663f2579c8182109f16255d6927bb3fe07",
-            "i-Highlight010": "416641a60a9fb9bf8f15afae8bdb6cfe02322416",
-            "i-Subtle": "fab037b58a9550162bf5a3db7493b910853384e2",
-            "i-Shadow010": "83ee408f7af17a138874ebbb22da9edbd7cad008",
-            "i-Gradient010": "0918d6959dae1100386f53b0c558b64d00b6deb4",
-            "i-Gradient020": "588f2bccd129785b052c4f1612f6450963c45122",
-            "i-Background010": "28061713c3a4afde3d04254ef04fceb71e882252",
-            "i-Background020": "f883cec6e59a86ec801c563dafc2b37e62af65e4",
-            "i-Border020": "e4af01818cc0a22b3840a21934128a6f4e3e1fa5",
-            "i-Border010": "264b4a2022e3c654c59eb572daa5d3c134de3bf9",
-            "i-Disabled": "58761eb73f501a026314ae8cb97e418cc866117e",
-            "i-Interface010": "63d2a5a4c45a39bd28725e5557d70db692b68d68",
-            "i-Interface020": "f705ee427c61aebd4eb6551cba7ad6ba0fe0c847",
-            "i-Interface030": "17fcf61f1e17eda87633d6ebfc25efd770a9fd5e",
-            "i-Interface040": "0e9ba439b5b71328bbb9b18c8d9c42295915ea97",
-            "i-Interface050": "0609229e194a3cfb04400dcdeaa7e7b828888523",
-            "i-Interface060": "0697a483f0cb58bf5799c33e4fc63d638128c924",
-            "i-Interface070": "6a84be4bc7524bce959c0f0a1d1f80b510057a0d",
-            "i-Interface080": "d7654b8a5e6a5eed1e9c9fe7c32b94d09c1e7179",
-            "i-Interface090": "696d7a84a9f8bf188c4b4cc714b66d61642d9776",
-            "i-Interface100": "382415c0de75715f7b075422bae8675d6ae4cbd0",
-            "i-InkAnatomySubtle": "fc1e27ae2e72c12738d7c0620f0601ec18103c4e",
-            "i-AnatomyBorder010": "8bb9b71fa0d692b16d86a548e740720e0d826825",
-            "i-AnatomyBorder020": "5e8e2a77efc4db570c0c25da9caeef3225398c42"
-          }
         },
-        "Components": {
-          "themeName": "NewsKit Website Graphic Dark-Components",
-          "children": {},
-          "tokens": {
-            "Palette010": "2e78c9f405c8fbd5df0491c744c6c2ef8ca981e9",
-            "Palette020": "b92cb819503fb373c842a069682c6c1612f7075e",
-            "Palette030": "b0981828c2bab103f02a2e5cd2701f8b0bf9db01",
-            "Palette040": "d5f81aa84c814d14412419f5e15e768de001fecc",
-            "Palette050": "38b8ff92ed2ad2f4125d607f9194f97b01ad43d9",
-            "Palette060": "c106892cc10c88536e138ec4a810298263ab3ddd",
-            "Palette070": "b3ee5cdd818a5c83203080379b486d22bd380133",
-            "Palette090": "deafcbb9cc7efee2cac7efe14c343781217a2458",
-            "Palette100": "7bcefdd4381ed742439abdf38b0287a326b8c6ef",
-            "i-Highlight010": "2d7838823fcd472269fb3115d445fbf229b75464",
-            "i-Subtle": "ece0041d62380d311224f499747bb80ef917e5fc",
-            "i-Shadow010": "20c686be6b3f94a78882b661ef2d83ec0fdc7336",
-            "i-Gradient010": "1b066fecda99f1c91afae9290b1ff28839c9e532",
-            "i-Gradient020": "8538c4cb6b0eb058804ce6937033b613af59aec3",
-            "i-Background010": "eb35100ae980800a9c1a74b5f9b8cec0829db961",
-            "i-Background020": "d72e2cc37084d8537618bddd8e1aefad068882e0",
-            "i-Border010": "fa22671e8423bff7ee92e8c67af94894f9df3670",
-            "i-Border020": "12b63af55c5a44c6fce7bb7af4a1130aef78cf79",
-            "i-Disabled": "238b25cbab6d87d6fb33262d40dc3d4eeb61ae61",
-            "i-Interface010": "fdb67741ab805e767f7fa2d3d85fe7dd3adb743b",
-            "i-Interface020": "5aff8de45df5b524d6db3451cb07c563593a58c9",
-            "i-Interface030": "57eeb6bcb752a3590b6ae5be026de61a28bce190",
-            "i-Interface040": "4d49e5adf23b5618cab7d18b9b42798e21201104",
-            "i-interface050": "4895c343d13113c150780c9a0e4f60824f102881",
-            "i-Interface060": "aceb5ba8f28087447b99872d52b556346a89fec7",
-            "i-Interface070": "217664e8d052ddc96e4c9eaffb5d0a12c033bde3",
-            "i-Interface080": "a46aa15bd7445f301bf06726d2625e018cbf9478",
-            "i-Interface090": "2578c9e0c69784f6b0aba80548c3122ed6c37de4",
-            "i-Interface100": "6d09c23b1f66e5c911ae3a92ba609cf371557ad1",
-            "i-AnatomySubtle": "f0d16fb4153f3a7b8aefeceb53947f0c8be39055",
-            "i-AnatomyBorder010": "c18ffc6ebde49de963e16c10fcc06f7e681dcc4b",
-            "i-AnatomyBorder020": "526f2424377e947144d362c3f9182ec111bfb524"
-          }
-        },
-        "Patterns": {
-          "themeName": "NewsKit Website Graphic Dark-Patterns",
-          "children": {},
-          "tokens": {
-            "Palette010": "f3bc1c4ddfcc89fec163ddfbef9c09b4ea54c893",
-            "Palette020": "431767c3eb21d60c313ecfd6c95fb65d81509568",
-            "Palette030": "fe41b43359114fe8590474a90eeeb7bf0aeff637",
-            "Palette040": "960930574b69aad06fd01157f8bcd71652e7e412",
-            "Palette050": "5968915643089ea6c6769a0d33a728385be4e7f1",
-            "Palette060": "df01b363a75499e12c924ec4fff3d38e7c401d3b",
-            "Palette070": "e2327d9c58abd59475f281f6bb0d8005c6bc62f7",
-            "Palette080": "03b5858a0b2966d4ccc26076373215f941e503c7",
-            "Palette090": "e6880c6f43c2f4cdadaffa1925e77f47a25214c6",
-            "Palette100": "626d7e3cc27a71a888ac4e2f5f1369d4b1eb7013",
-            "i-Highlight010": "c570507d4ac8dd12b73af9c039816cec86270624",
-            "i-Subtle": "0d121d11cadefc93a57b6d70f30c300d344f2c5e",
-            "i-Shadow010": "f2b4c16c9d1c3f365583ada3799bb647888ffd4b",
-            "i-Gradient010": "e65502f70580f6706074c559c5856ad2ee9b9003",
-            "i-Gradient020": "738bc913c514f4aca635d179de29f5fb56f5f322",
-            "i-Background010": "db57183f231a5b08ec23693edeb4b37367ddc66c",
-            "i-Background020": "d77509d4e73392fd7da09b6f2146af96443f14a0",
-            "i-Border010": "8fe979f5d4f4b50740a2e61115ef3d4efde29903",
-            "i-Border020": "598004fd8d4f8510263cfdda72d29ea33d32d136",
-            "i-Disabled": "fe113e50502bbeb2500a899efbf5969b5bcc36bf",
-            "i-Interface010": "db18dfe8bc4be3b5faa008476f746141770afd64",
-            "i-Interface020": "3d303b3fa034840e6c098a1384908dc7b658ade4",
-            "i-Interface030": "ac05c9ea39ea0db2bd742c30e4257aee863fa2f5",
-            "i-Interface040": "286c472f24ae3283a2976f8b789afe3535c3ce1b",
-            "i-Interface050": "967629966548114c604bd981f34a1c6aa04aacd5",
-            "i-Interface060": "361ac358a0966182c4101af8a861a3b01c65b40c",
-            "i-Interface070": "cff16cf4bfaec55e36caad13d58b5c0348eaaca5",
-            "i-Interface080": "3f7c63df6d98b1457bf3bc517aa67333ef22a242",
-            "i-Interface090": "29ec9d5fe40c955407b37a8ce8e73c7913d590dd",
-            "i-Interface100": "841df47448c11a1ce53768060a49284c29945c50",
-            "i-AnatomySubtle": "bf833cb22ac0c5d088b2411a7d726bfd67470725",
-            "i-AnatomyBorder010": "7ea779eb559b243986183c9ebcb99c9e7d9f2666",
-            "i-AnatomyBorder020": "6c4f640f0d389aecd5f2f177095330419d47e3ea"
-          }
+        "Dark": {
+          "themeName": "NewsKit Illustration-Dark",
+          "children": {
+            "Foundations": {
+              "themeName": "NewsKit Illustration-Dark-Foundations",
+              "children": {},
+              "tokens": {
+                "Palette010": "9a5ae04253041a3725d4d79239fa8b210811bcbd",
+                "Palette020": "d981e74f6f969b9fe5c564eaf93dc6219d4fa236",
+                "Palette030": "7340343d6e4a0ec09255a1d1382e0132f683aab7",
+                "Palette040": "4928f4aa082e2bca59736c3ef383d6aa0de867b2",
+                "Palette050": "fc4f6edf0d46618f9d4f0f9da07b21a8f71a63c1",
+                "Palette060": "9363c69558c9cb042ebf09897a82c03a814c6e5f",
+                "Palette070": "53951baeef555ce5fc888c7b3ccdb425dd6608d8",
+                "Palette080": "dae305f8c41f2ead13f349d390e77aad5916aba6",
+                "Palette090": "8775f04fe8b7f91a6b348bece7caf110ba6f5c15",
+                "Palette100": "a1a1d3663f2579c8182109f16255d6927bb3fe07",
+                "i-Highlight010": "416641a60a9fb9bf8f15afae8bdb6cfe02322416",
+                "i-Subtle": "fab037b58a9550162bf5a3db7493b910853384e2",
+                "i-Shadow010": "83ee408f7af17a138874ebbb22da9edbd7cad008",
+                "i-Gradient010": "0918d6959dae1100386f53b0c558b64d00b6deb4",
+                "i-Gradient020": "588f2bccd129785b052c4f1612f6450963c45122",
+                "i-Background010": "28061713c3a4afde3d04254ef04fceb71e882252",
+                "i-Background020": "f883cec6e59a86ec801c563dafc2b37e62af65e4",
+                "i-Border020": "e4af01818cc0a22b3840a21934128a6f4e3e1fa5",
+                "i-Border010": "264b4a2022e3c654c59eb572daa5d3c134de3bf9",
+                "i-Disabled": "58761eb73f501a026314ae8cb97e418cc866117e",
+                "i-Interface010": "63d2a5a4c45a39bd28725e5557d70db692b68d68",
+                "i-Interface020": "f705ee427c61aebd4eb6551cba7ad6ba0fe0c847",
+                "i-Interface030": "17fcf61f1e17eda87633d6ebfc25efd770a9fd5e",
+                "i-Interface040": "0e9ba439b5b71328bbb9b18c8d9c42295915ea97",
+                "i-Interface050": "0609229e194a3cfb04400dcdeaa7e7b828888523",
+                "i-Interface060": "0697a483f0cb58bf5799c33e4fc63d638128c924",
+                "i-Interface070": "6a84be4bc7524bce959c0f0a1d1f80b510057a0d",
+                "i-Interface080": "d7654b8a5e6a5eed1e9c9fe7c32b94d09c1e7179",
+                "i-Interface090": "696d7a84a9f8bf188c4b4cc714b66d61642d9776",
+                "i-Interface100": "382415c0de75715f7b075422bae8675d6ae4cbd0",
+                "i-InkAnatomySubtle": "fc1e27ae2e72c12738d7c0620f0601ec18103c4e",
+                "i-AnatomyBorder010": "8bb9b71fa0d692b16d86a548e740720e0d826825",
+                "i-AnatomyBorder020": "5e8e2a77efc4db570c0c25da9caeef3225398c42"
+              }
+            },
+            "Components": {
+              "themeName": "NewsKit Illustration-Dark-Components",
+              "children": {},
+              "tokens": {
+                "Palette010": "2e78c9f405c8fbd5df0491c744c6c2ef8ca981e9",
+                "Palette020": "b92cb819503fb373c842a069682c6c1612f7075e",
+                "Palette030": "b0981828c2bab103f02a2e5cd2701f8b0bf9db01",
+                "Palette040": "d5f81aa84c814d14412419f5e15e768de001fecc",
+                "Palette050": "38b8ff92ed2ad2f4125d607f9194f97b01ad43d9",
+                "Palette060": "c106892cc10c88536e138ec4a810298263ab3ddd",
+                "Palette070": "b3ee5cdd818a5c83203080379b486d22bd380133",
+                "Palette090": "deafcbb9cc7efee2cac7efe14c343781217a2458",
+                "Palette100": "7bcefdd4381ed742439abdf38b0287a326b8c6ef",
+                "i-Highlight010": "2d7838823fcd472269fb3115d445fbf229b75464",
+                "i-Subtle": "ece0041d62380d311224f499747bb80ef917e5fc",
+                "i-Shadow010": "20c686be6b3f94a78882b661ef2d83ec0fdc7336",
+                "i-Gradient010": "1b066fecda99f1c91afae9290b1ff28839c9e532",
+                "i-Gradient020": "8538c4cb6b0eb058804ce6937033b613af59aec3",
+                "i-Background010": "eb35100ae980800a9c1a74b5f9b8cec0829db961",
+                "i-Background020": "d72e2cc37084d8537618bddd8e1aefad068882e0",
+                "i-Border010": "fa22671e8423bff7ee92e8c67af94894f9df3670",
+                "i-Border020": "12b63af55c5a44c6fce7bb7af4a1130aef78cf79",
+                "i-Disabled": "238b25cbab6d87d6fb33262d40dc3d4eeb61ae61",
+                "i-Interface010": "fdb67741ab805e767f7fa2d3d85fe7dd3adb743b",
+                "i-Interface020": "5aff8de45df5b524d6db3451cb07c563593a58c9",
+                "i-Interface030": "57eeb6bcb752a3590b6ae5be026de61a28bce190",
+                "i-Interface040": "4d49e5adf23b5618cab7d18b9b42798e21201104",
+                "i-interface050": "4895c343d13113c150780c9a0e4f60824f102881",
+                "i-Interface060": "aceb5ba8f28087447b99872d52b556346a89fec7",
+                "i-Interface070": "217664e8d052ddc96e4c9eaffb5d0a12c033bde3",
+                "i-Interface080": "a46aa15bd7445f301bf06726d2625e018cbf9478",
+                "i-Interface090": "2578c9e0c69784f6b0aba80548c3122ed6c37de4",
+                "i-Interface100": "6d09c23b1f66e5c911ae3a92ba609cf371557ad1",
+                "i-AnatomySubtle": "f0d16fb4153f3a7b8aefeceb53947f0c8be39055",
+                "i-AnatomyBorder010": "c18ffc6ebde49de963e16c10fcc06f7e681dcc4b",
+                "i-AnatomyBorder020": "526f2424377e947144d362c3f9182ec111bfb524"
+              }
+            },
+            "Patterns": {
+              "themeName": "NewsKit Illustration-Dark-Patterns",
+              "children": {},
+              "tokens": {
+                "Palette010": "f3bc1c4ddfcc89fec163ddfbef9c09b4ea54c893",
+                "Palette020": "431767c3eb21d60c313ecfd6c95fb65d81509568",
+                "Palette030": "fe41b43359114fe8590474a90eeeb7bf0aeff637",
+                "Palette040": "960930574b69aad06fd01157f8bcd71652e7e412",
+                "Palette050": "5968915643089ea6c6769a0d33a728385be4e7f1",
+                "Palette060": "df01b363a75499e12c924ec4fff3d38e7c401d3b",
+                "Palette070": "e2327d9c58abd59475f281f6bb0d8005c6bc62f7",
+                "Palette080": "03b5858a0b2966d4ccc26076373215f941e503c7",
+                "Palette090": "e6880c6f43c2f4cdadaffa1925e77f47a25214c6",
+                "Palette100": "626d7e3cc27a71a888ac4e2f5f1369d4b1eb7013",
+                "i-Highlight010": "c570507d4ac8dd12b73af9c039816cec86270624",
+                "i-Subtle": "0d121d11cadefc93a57b6d70f30c300d344f2c5e",
+                "i-Shadow010": "f2b4c16c9d1c3f365583ada3799bb647888ffd4b",
+                "i-Gradient010": "e65502f70580f6706074c559c5856ad2ee9b9003",
+                "i-Gradient020": "738bc913c514f4aca635d179de29f5fb56f5f322",
+                "i-Background010": "db57183f231a5b08ec23693edeb4b37367ddc66c",
+                "i-Background020": "d77509d4e73392fd7da09b6f2146af96443f14a0",
+                "i-Border010": "8fe979f5d4f4b50740a2e61115ef3d4efde29903",
+                "i-Border020": "598004fd8d4f8510263cfdda72d29ea33d32d136",
+                "i-Disabled": "fe113e50502bbeb2500a899efbf5969b5bcc36bf",
+                "i-Interface010": "db18dfe8bc4be3b5faa008476f746141770afd64",
+                "i-Interface020": "3d303b3fa034840e6c098a1384908dc7b658ade4",
+                "i-Interface030": "ac05c9ea39ea0db2bd742c30e4257aee863fa2f5",
+                "i-Interface040": "286c472f24ae3283a2976f8b789afe3535c3ce1b",
+                "i-Interface050": "967629966548114c604bd981f34a1c6aa04aacd5",
+                "i-Interface060": "361ac358a0966182c4101af8a861a3b01c65b40c",
+                "i-Interface070": "cff16cf4bfaec55e36caad13d58b5c0348eaaca5",
+                "i-Interface080": "3f7c63df6d98b1457bf3bc517aa67333ef22a242",
+                "i-Interface090": "29ec9d5fe40c955407b37a8ce8e73c7913d590dd",
+                "i-Interface100": "841df47448c11a1ce53768060a49284c29945c50",
+                "i-AnatomySubtle": "bf833cb22ac0c5d088b2411a7d726bfd67470725",
+                "i-AnatomyBorder010": "7ea779eb559b243986183c9ebcb99c9e7d9f2666",
+                "i-AnatomyBorder020": "6c4f640f0d389aecd5f2f177095330419d47e3ea"
+              }
+            }
+          },
+          "tokens": {}
         }
       },
       "tokens": {}
