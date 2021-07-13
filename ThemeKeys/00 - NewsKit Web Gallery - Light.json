@@ -457,9 +457,9 @@
             "i-Interface080": "57bf85150766c2011c2f88c987ac7e5923b6f64b",
             "i-Interface090": "74e1ecdffa53f0280d2f75d329347d1e37eeb82f",
             "i-Interface100": "e2ca2e78dfb6417e272dfa425f84dc8a67320809",
-            "i-BorderAnatomy020": "33de22e96d43174e710bbda926cafb9e65746de5",
+            "i-AnatomyBorder020": "33de22e96d43174e710bbda926cafb9e65746de5",
             "i-InkAnatomySubtle": "1b5d2fdb03d19f6cbb5e75a0d0b544dfbb144d03",
-            "i-BorderAnatomy010": "412d37a3d6e34bd7ebbaa4193a340147572b9c02"
+            "i-AnatomyBorder010": "412d37a3d6e34bd7ebbaa4193a340147572b9c02"
           }
         },
         "Components": {
@@ -497,8 +497,8 @@
             "i-Interface090": "834f1daaad1f6af604b9a4491ddad0a81d91f5c3",
             "i-Interface100": "f5efcb8608ddef4ef3c0a436e25837ad3e7e2f88",
             "i-AnatomySubtle": "fbc1a18105d3d12f933649a265e8838a65aeff3d",
-            "i-BorderAnatomy010": "c685e3309dde9a62d30907192d0c3b8a41407db2",
-            "i-BorderAnatomy020": "0497f96dda55e8ab6aada2d5b1a2715af456f5fe"
+            "i-AnatomyBorder010": "c685e3309dde9a62d30907192d0c3b8a41407db2",
+            "i-AnatomyBorder020": "0497f96dda55e8ab6aada2d5b1a2715af456f5fe"
           }
         },
         "Patterns": {
@@ -536,8 +536,8 @@
             "i-Interface090": "61f8bf654164606af1a3c1e71844a0924938f19c",
             "i-Interface100": "4b55b1a3fecd13d47fd3bbf3844eb8f28fff626e",
             "i-InkAnatomySubtle": "8c67bce2b5c34d0360ef0ad26b26a61b0e4d7f3c",
-            "i-BorderAnatomy010": "76fff035e4968decc2d65c937f8b82d3d31ecef8",
-            "i-BorderAnatomy020": "a843836e2429cd38c5a13f233c09c2ae9047deef"
+            "i-AnatomyBorder010": "76fff035e4968decc2d65c937f8b82d3d31ecef8",
+            "i-AnatomyBorder020": "a843836e2429cd38c5a13f233c09c2ae9047deef"
           }
         }
       },
@@ -581,8 +581,8 @@
             "i-Interface090": "696d7a84a9f8bf188c4b4cc714b66d61642d9776",
             "i-Interface100": "382415c0de75715f7b075422bae8675d6ae4cbd0",
             "i-InkAnatomySubtle": "fc1e27ae2e72c12738d7c0620f0601ec18103c4e",
-            "i-BorderAnatomy010": "8bb9b71fa0d692b16d86a548e740720e0d826825",
-            "i-BorderAnatomy020": "5e8e2a77efc4db570c0c25da9caeef3225398c42"
+            "i-AnatomyBorder010": "8bb9b71fa0d692b16d86a548e740720e0d826825",
+            "i-AnatomyBorder020": "5e8e2a77efc4db570c0c25da9caeef3225398c42"
           }
         },
         "Components": {
@@ -619,8 +619,8 @@
             "i-Interface090": "2578c9e0c69784f6b0aba80548c3122ed6c37de4",
             "i-Interface100": "6d09c23b1f66e5c911ae3a92ba609cf371557ad1",
             "i-AnatomySubtle": "f0d16fb4153f3a7b8aefeceb53947f0c8be39055",
-            "i-BorderAnatomy010": "c18ffc6ebde49de963e16c10fcc06f7e681dcc4b",
-            "i-BorderAnatomy020": "526f2424377e947144d362c3f9182ec111bfb524"
+            "i-AnatomyBorder010": "c18ffc6ebde49de963e16c10fcc06f7e681dcc4b",
+            "i-AnatomyBorder020": "526f2424377e947144d362c3f9182ec111bfb524"
           }
         },
         "Patterns": {
@@ -658,8 +658,8 @@
             "i-Interface090": "29ec9d5fe40c955407b37a8ce8e73c7913d590dd",
             "i-Interface100": "841df47448c11a1ce53768060a49284c29945c50",
             "i-AnatomySubtle": "bf833cb22ac0c5d088b2411a7d726bfd67470725",
-            "i-BorderAnatomy010": "7ea779eb559b243986183c9ebcb99c9e7d9f2666",
-            "i-BorderAnatomy020": "6c4f640f0d389aecd5f2f177095330419d47e3ea"
+            "i-AnatomyBorder010": "7ea779eb559b243986183c9ebcb99c9e7d9f2666",
+            "i-AnatomyBorder020": "6c4f640f0d389aecd5f2f177095330419d47e3ea"
           }
         }
       },
