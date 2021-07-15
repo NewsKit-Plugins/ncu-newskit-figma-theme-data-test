@@ -21,13 +21,13 @@
           "themeName": "NewsKit Website-Patterns",
           "children": {},
           "tokens": {
-            "inkBrand010": "ff6dba4f4bcc6536e94a567fbbe02731208b25df",
-            "inkBrand020": "aded450477440b2e8092096c67e004416dfa6214",
             "interfaceBrand010": "c9dfa1fc145c71330cbac44f9aadd5133916a2d1",
             "interfaceBrand020": "be50b22aea88caa6617116339f77f6ca5fa12b0c",
             "interfaceBrand030": "91868c0bd7396ae72ee6c43a6498990d9a00338d",
             "interfaceBrand040": "23729205f5018c5288ac62b1c839c85a9062fa56",
-            "interfaceBrand050": "f27eb82cd1698bd3c99030603ea47c533fd1f2e2"
+            "interfaceBrand050": "f27eb82cd1698bd3c99030603ea47c533fd1f2e2",
+            "inkBrand010": "ff6dba4f4bcc6536e94a567fbbe02731208b25df",
+            "inkBrand020": "aded450477440b2e8092096c67e004416dfa6214"
           }
         },
         "Accessibility": {
@@ -371,6 +371,9 @@
         "spaceInsetSquish040": "6aadc310a0d7e9d42464464ab81c87d78b931830",
         "spaceInsetSquish050": "6e5d7a3211aad805994492c3fdbbd5c1a84d18e7",
         "spaceInsetSquish060": "04903729e7b7ad09e2e5656b1ec8fb12dc4162f6",
+        "editorialDisplay010": "2cd7cb512c0c21d2ccc2f5fd1cf676d24d391767",
+        "editorialDisplay020": "03798e3dd1e0e87f6c4a67d8eb83867867be36c9",
+        "editorialDisplay030": "74894534a1e6eb1f387627f8d82558155e756775",
         "editorialHeadline010": "2b0f001b068b9247533f4529aaad9e35c562dc4b",
         "editorialHeadline020": "b1ab384e1be54d3e6e260083f2f9949d064b6f54",
         "editorialHeadline030": "ee1fdd7dcc33e51cf7d8a6a455eb0c7083e65248",
@@ -390,6 +393,9 @@
         "editorialQuote010": "65380d7893653e32d0ad3421abd26f0e7c485d19",
         "editorialQuote020": "c17bab0506d45d0ea5869e68c65991569b6ebee6",
         "editorialCaption010": "e74af256b2f6786522f8339d1c57ff6cfbfd6736",
+        "editorialLabel010": "6b5c770da2f4419c029dfefa2dd8b688ab93071b",
+        "editorialLabel020": "b8e8134c75626c299a31ea26e51db08c4f0301b8",
+        "editorialLabel030": "c8eb1ba04dcb0101ceaa5b608fe42169fbeb8277",
         "utilityHeading010": "713f1ba197e63d67e66cf12eec8b88f541e5d7f2",
         "utilityHeading020": "faf5b74b8fbcc885198d4c414c4d4f54b15a3af0",
         "utilityHeading030": "ae45d1f6708b955ff7667fcb55abb7a989face53",
