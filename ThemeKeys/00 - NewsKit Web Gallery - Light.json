@@ -444,7 +444,8 @@
             "i-Shadow010": "ce8d24f582a2e76539808400da4d0119c7e71c76",
             "i-Gradient010": "670f5363ce157a74914cc3ab8e3ebe0cd14575a0",
             "i-Gradient020": "ed0e63449f38bbed42c1c764fa47ab15c87f22ba",
-            "i-Background": "21340a535675cb112bc8859e8b473611a72f802f",
+            "i-Background010": "a83a3c5efeb6326e9ecc2470eada8231b95cf5a2",
+            "i-Background020": "21340a535675cb112bc8859e8b473611a72f802f",
             "i-Border010": "bd032991b8119858ab491796c4cdbb4da5671833",
             "i-Border020": "712f6d1a47fb50295f08b486d86ea37aca2491a6",
             "i-Disabled": "de58889e57b24be788a11b19066da56bb1ae2a7b",
@@ -458,10 +459,9 @@
             "i-Interface080": "49a47d0d40e4b434e61e468134eb0ce7dca9c07e",
             "i-Interface090": "834f1daaad1f6af604b9a4491ddad0a81d91f5c3",
             "i-Interface100": "f5efcb8608ddef4ef3c0a436e25837ad3e7e2f88",
-            "i-AnatomyBackground": "a83a3c5efeb6326e9ecc2470eada8231b95cf5a2",
+            "i-AnatomySubtle": "fbc1a18105d3d12f933649a265e8838a65aeff3d",
             "i-AnatomyBorder010": "c685e3309dde9a62d30907192d0c3b8a41407db2",
-            "i-AnatomyBorder020": "0497f96dda55e8ab6aada2d5b1a2715af456f5fe",
-            "i-AnatomySubtle": "fbc1a18105d3d12f933649a265e8838a65aeff3d"
+            "i-AnatomyBorder020": "0497f96dda55e8ab6aada2d5b1a2715af456f5fe"
           }
         },
         "Foundations": {
@@ -483,7 +483,8 @@
             "i-Shadow010": "b84740acacbac4b37b862368d6d18acb57a68ed7",
             "i-Gradient010": "bd961d5cb8f365202257e9fea558f0d36afafacc",
             "i-Gradient020": "beeba7910477c18913dca7de258804bd50d10914",
-            "i-Background": "f2287b3ce8f8764b61f7a6743fc19dc2d8b4e749",
+            "i-Background010": "8693b4790e38b9d7c9cf5042a93457d3d23a7df5",
+            "i-Background020": "f2287b3ce8f8764b61f7a6743fc19dc2d8b4e749",
             "i-Border010": "e0bf18715c20287282dd5f29a80834a431780acc",
             "i-Border020": "3d9e81275c96fed76c746900935a6490c6505c17",
             "i-Disabled": "3def952a1761da46ee672aaca3340f697835eae3",
@@ -497,32 +498,32 @@
             "i-Interface080": "57bf85150766c2011c2f88c987ac7e5923b6f64b",
             "i-Interface090": "74e1ecdffa53f0280d2f75d329347d1e37eeb82f",
             "i-Interface100": "e2ca2e78dfb6417e272dfa425f84dc8a67320809",
-            "i-AnatomyBackground": "8693b4790e38b9d7c9cf5042a93457d3d23a7df5",
+            "i-AnatomyBorder020": "33de22e96d43174e710bbda926cafb9e65746de5",
             "i-AnatomySubtle": "1b5d2fdb03d19f6cbb5e75a0d0b544dfbb144d03",
-            "i-AnatomyBorder010": "412d37a3d6e34bd7ebbaa4193a340147572b9c02",
-            "i-AnatomyBorder020": "33de22e96d43174e710bbda926cafb9e65746de5"
+            "i-AnatomyBorder010": "412d37a3d6e34bd7ebbaa4193a340147572b9c02"
           }
         },
         "Patterns": {
           "themeName": "NewsKit Illustration-Patterns",
           "children": {},
           "tokens": {
-            "Palette010": "5b23839d1e4be1b17bdc811a9d7aa496aed8a4d3",
-            "Palette020": "619fd8246a617d3219b42f0f23e26920301de226",
-            "Palette030": "d36bd01ae7ec46a3d74e405a283c02f4a3c94697",
-            "Palette040": "84f4b921f722bb0757b17a290d069630393e7820",
-            "Palette050": "8fc5e78369ea1cdd070d54b2b321a7ff150b1fb1",
-            "Palette060": "6c0459ba4a127918944e1ee47d2a879bf16d92ee",
-            "Palette070": "5757ad779f88627e198113351469ba06641581cd",
-            "Palette080": "650411afe7d29c123c13c33bbf5ba0271a839e52",
-            "Palette090": "51449f42286d8c5ee56bfaa439654a0aa2a79241",
             "Palette100": "334dde94ea90dad1c51d776f057f03413e926d17",
+            "Palette090": "51449f42286d8c5ee56bfaa439654a0aa2a79241",
+            "Palette080": "650411afe7d29c123c13c33bbf5ba0271a839e52",
+            "Palette070": "5757ad779f88627e198113351469ba06641581cd",
+            "Palette060": "6c0459ba4a127918944e1ee47d2a879bf16d92ee",
+            "Palette050": "8fc5e78369ea1cdd070d54b2b321a7ff150b1fb1",
+            "Palette040": "84f4b921f722bb0757b17a290d069630393e7820",
+            "Palette030": "d36bd01ae7ec46a3d74e405a283c02f4a3c94697",
+            "Palette020": "619fd8246a617d3219b42f0f23e26920301de226",
+            "Palette010": "5b23839d1e4be1b17bdc811a9d7aa496aed8a4d3",
             "i-Highlight010": "d548073716afd58a287db878c43d4a361f392d6b",
             "i-Subtle": "128b1a2a8ca56efc789d356904b2e7cacd58954d",
             "i-Shadow010": "2f9053ca9d65523d251f635c1e50bad7988fc478",
             "i-Gradient010": "8cba76e0949e2e20c843f37ec9e8a7e5d30d4621",
             "i-Gradient020": "612d6df36585397d282f53930692ca1244454e1a",
-            "i-Background": "6c5eec8f46202c9a813f579058f8d8189b67f7fd",
+            "i-Background010": "49a0462f3f8fb182eb4c4d7c8dbbae337d595cad",
+            "i-Background020": "6c5eec8f46202c9a813f579058f8d8189b67f7fd",
             "i-Border010": "bc68d639aa311fbbaabbca70390d539f265e0cb1",
             "i-Border020": "ac168435f811c61841322be392e7177972ef9d3e",
             "i-Disabled": "452568a91a4475b94162a330dfbfb2a871df13ff",
@@ -536,10 +537,9 @@
             "i-Interface080": "758ca86d329f3891e51bcc43d5d76203da1fe7ea",
             "i-Interface090": "61f8bf654164606af1a3c1e71844a0924938f19c",
             "i-Interface100": "4b55b1a3fecd13d47fd3bbf3844eb8f28fff626e",
-            "i-AnatomyBackground": "49a0462f3f8fb182eb4c4d7c8dbbae337d595cad",
+            "i-AnatomySubtle": "ffc3102132e9acbf91c3e593200b0b6016b5d9ff",
             "i-AnatomyBorder010": "76fff035e4968decc2d65c937f8b82d3d31ecef8",
-            "i-AnatomyBorder020": "a843836e2429cd38c5a13f233c09c2ae9047deef",
-            "i-AnatomySubtle": "ffc3102132e9acbf91c3e593200b0b6016b5d9ff"
+            "i-AnatomyBorder020": "a843836e2429cd38c5a13f233c09c2ae9047deef"
           }
         },
         "Dark": {
@@ -564,7 +564,8 @@
                 "i-Shadow010": "20c686be6b3f94a78882b661ef2d83ec0fdc7336",
                 "i-Gradient010": "1b066fecda99f1c91afae9290b1ff28839c9e532",
                 "i-Gradient020": "8538c4cb6b0eb058804ce6937033b613af59aec3",
-                "i-Background": "d72e2cc37084d8537618bddd8e1aefad068882e0",
+                "i-Background010": "eb35100ae980800a9c1a74b5f9b8cec0829db961",
+                "i-Background020": "d72e2cc37084d8537618bddd8e1aefad068882e0",
                 "i-Border010": "fa22671e8423bff7ee92e8c67af94894f9df3670",
                 "i-Border020": "12b63af55c5a44c6fce7bb7af4a1130aef78cf79",
                 "i-Disabled": "238b25cbab6d87d6fb33262d40dc3d4eeb61ae61",
@@ -580,8 +581,7 @@
                 "i-Interface100": "6d09c23b1f66e5c911ae3a92ba609cf371557ad1",
                 "i-AnatomySubtle": "f0d16fb4153f3a7b8aefeceb53947f0c8be39055",
                 "i-AnatomyBorder010": "c18ffc6ebde49de963e16c10fcc06f7e681dcc4b",
-                "i-AnatomyBorder020": "526f2424377e947144d362c3f9182ec111bfb524",
-                "i-AnatomyBackground": "eb35100ae980800a9c1a74b5f9b8cec0829db961"
+                "i-AnatomyBorder020": "526f2424377e947144d362c3f9182ec111bfb524"
               }
             },
             "Foundations": {
@@ -603,7 +603,8 @@
                 "i-Shadow010": "83ee408f7af17a138874ebbb22da9edbd7cad008",
                 "i-Gradient010": "0918d6959dae1100386f53b0c558b64d00b6deb4",
                 "i-Gradient020": "588f2bccd129785b052c4f1612f6450963c45122",
-                "i-Background": "f883cec6e59a86ec801c563dafc2b37e62af65e4",
+                "i-Background010": "28061713c3a4afde3d04254ef04fceb71e882252",
+                "i-Background020": "f883cec6e59a86ec801c563dafc2b37e62af65e4",
                 "i-Border020": "e4af01818cc0a22b3840a21934128a6f4e3e1fa5",
                 "i-Border010": "264b4a2022e3c654c59eb572daa5d3c134de3bf9",
                 "i-Disabled": "58761eb73f501a026314ae8cb97e418cc866117e",
@@ -617,10 +618,9 @@
                 "i-Interface080": "d7654b8a5e6a5eed1e9c9fe7c32b94d09c1e7179",
                 "i-Interface090": "696d7a84a9f8bf188c4b4cc714b66d61642d9776",
                 "i-Interface100": "382415c0de75715f7b075422bae8675d6ae4cbd0",
-                "i-AnatomyBackground": "28061713c3a4afde3d04254ef04fceb71e882252",
+                "i-AnatomySubtle": "fc1e27ae2e72c12738d7c0620f0601ec18103c4e",
                 "i-AnatomyBorder010": "8bb9b71fa0d692b16d86a548e740720e0d826825",
-                "i-AnatomyBorder020": "5e8e2a77efc4db570c0c25da9caeef3225398c42",
-                "i-AnatomySubtle": "fc1e27ae2e72c12738d7c0620f0601ec18103c4e"
+                "i-AnatomyBorder020": "5e8e2a77efc4db570c0c25da9caeef3225398c42"
               }
             },
             "Patterns": {
@@ -642,7 +642,8 @@
                 "i-Shadow010": "f2b4c16c9d1c3f365583ada3799bb647888ffd4b",
                 "i-Gradient010": "e65502f70580f6706074c559c5856ad2ee9b9003",
                 "i-Gradient020": "738bc913c514f4aca635d179de29f5fb56f5f322",
-                "i-Background": "d77509d4e73392fd7da09b6f2146af96443f14a0",
+                "i-Background010": "db57183f231a5b08ec23693edeb4b37367ddc66c",
+                "i-Background020": "d77509d4e73392fd7da09b6f2146af96443f14a0",
                 "i-Border010": "8fe979f5d4f4b50740a2e61115ef3d4efde29903",
                 "i-Border020": "598004fd8d4f8510263cfdda72d29ea33d32d136",
                 "i-Disabled": "fe113e50502bbeb2500a899efbf5969b5bcc36bf",
@@ -656,10 +657,9 @@
                 "i-Interface080": "3f7c63df6d98b1457bf3bc517aa67333ef22a242",
                 "i-Interface090": "29ec9d5fe40c955407b37a8ce8e73c7913d590dd",
                 "i-Interface100": "841df47448c11a1ce53768060a49284c29945c50",
-                "i-AnatomyBackground": "db57183f231a5b08ec23693edeb4b37367ddc66c",
+                "i-AnatomySubtle": "bf833cb22ac0c5d088b2411a7d726bfd67470725",
                 "i-AnatomyBorder010": "7ea779eb559b243986183c9ebcb99c9e7d9f2666",
-                "i-AnatomyBorder020": "6c4f640f0d389aecd5f2f177095330419d47e3ea",
-                "i-AnatomySubtle": "bf833cb22ac0c5d088b2411a7d726bfd67470725"
+                "i-AnatomyBorder020": "6c4f640f0d389aecd5f2f177095330419d47e3ea"
               }
             }
           },
