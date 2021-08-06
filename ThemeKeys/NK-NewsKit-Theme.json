@@ -35,6 +35,8 @@
           "tokens": {
             "inkBrand010": "92c85b770254959c9c2d90ee06262af4e4825d07",
             "inkBrand020": "bef92a8f73ab0898da008fbb2135981803c4096b",
+            "interfaceBrand010": "24a286e96dc0d3e6078bc9da549d5420498d3e96",
+            "interfaceBrand020": "3270cee015e797d138e21dad143489a53163ae1f",
             "interactivePrimary010": "ae95678362754c42d1eb83a0b5179fba257a71df",
             "interactivePrimary020": "d7291e8151b1e2b4afec3ff638445ffea83e5264",
             "interactivePrimary030": "57fa450211142b25d7fa3beba4fff1aafcf0e529",
@@ -49,9 +51,7 @@
             "sectionTwo070": "5b49612378ef5ab61e46a5b2902bc465d316c9aa",
             "sectionTwo080": "f109ed26e52d3d02bf77bb63cc8c011f2bdf7ad7",
             "sectionTwo090": "4a9d69ef99fffdec73d7a48303ae0c9af987d418",
-            "sectionTwo100": "0e9c58ed9f4de8a3d193dc7a18311862504c339f",
-            "interfaceBrand010": "24a286e96dc0d3e6078bc9da549d5420498d3e96",
-            "interfaceBrand020": "3270cee015e797d138e21dad143489a53163ae1f"
+            "sectionTwo100": "0e9c58ed9f4de8a3d193dc7a18311862504c339f"
           }
         },
         "Navy": {
@@ -60,6 +60,8 @@
           "tokens": {
             "inkBrand010": "87d142eabb8371f488af2043cf56f5c8378594d2",
             "inkBrand020": "dc66b59ceb37adf05034147c705be8a004adbb4b",
+            "interfaceBrand010": "61d3592708ae4504e598dd600551c729e5cd49fd",
+            "interfaceBrand020": "47a9470ffb0ecaf68f555d97160bde35f8c5599e",
             "interactivePrimary010": "05de984fee57bb9809d1de18599a3147bc6791f9",
             "interactivePrimary020": "6e3d0bdda6aa559b6860fa445b5ed261543864fd",
             "interactivePrimary030": "06e56010b250dad5d4270ad926d680013ad44cb3",
@@ -74,9 +76,7 @@
             "sectionThree070": "cafffe9b7842958d6cef068190def0d2bae4aee2",
             "sectionThree080": "7b91300a00242f8f7e440e00d808551c516b64c3",
             "sectionThree090": "1686f24250b89ccbe385e2b31415a750fc532155",
-            "sectionThree100": "2ee4e3e7d4836960e397a89b35ea7f350da7af28",
-            "interfaceBrand010": "61d3592708ae4504e598dd600551c729e5cd49fd",
-            "interfaceBrand020": "47a9470ffb0ecaf68f555d97160bde35f8c5599e"
+            "sectionThree100": "2ee4e3e7d4836960e397a89b35ea7f350da7af28"
           }
         }
       },
