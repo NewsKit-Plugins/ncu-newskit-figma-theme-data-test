@@ -1,11 +1,11 @@
 {
   "themeName": "NK-TimesRadio-Theme Exploration",
   "children": {
-    "Exploration": {
-      "themeName": "Exploration",
+    "TEST TimesRadio": {
+      "themeName": "TEST TimesRadio",
       "children": {
         "TimesRadio Dark": {
-          "themeName": "Exploration-TimesRadio Dark",
+          "themeName": "TEST TimesRadio-TimesRadio Dark",
           "children": {},
           "tokens": {
             "transparent": "d9598affc72f196cf42ba37cdc9238ba982d2848",
@@ -288,7 +288,7 @@
           }
         },
         "TimesRadio Light": {
-          "themeName": "Exploration-TimesRadio Light",
+          "themeName": "TEST TimesRadio-TimesRadio Light",
           "children": {},
           "tokens": {
             "inkBase": "3ff27fe4ba0a66d14f2646c796c863df63bc3d33",
