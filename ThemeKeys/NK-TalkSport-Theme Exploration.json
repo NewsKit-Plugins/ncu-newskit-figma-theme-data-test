@@ -1,11 +1,11 @@
 {
   "themeName": "NK-TalkSport-Theme Exploration",
   "children": {
-    "Exploration": {
-      "themeName": "Exploration",
+    "TEST TalkSport": {
+      "themeName": "TEST TalkSport",
       "children": {
         "TalkSport Dark": {
-          "themeName": "Exploration-TalkSport Dark",
+          "themeName": "TEST TalkSport-TalkSport Dark",
           "children": {},
           "tokens": {
             "transparent": "430d174b7e8d69534522db93b196e8b36cf6d0ca",
@@ -288,7 +288,7 @@
           }
         },
         "TalkSport Light": {
-          "themeName": "Exploration-TalkSport Light",
+          "themeName": "TEST TalkSport-TalkSport Light",
           "children": {},
           "tokens": {
             "transparent": "abd06e8a01520c4a1614c0976d0876e18396f3e7",
