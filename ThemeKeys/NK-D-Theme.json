@@ -3,83 +3,7 @@
   "children": {
     "D.": {
       "themeName": "D.",
-      "children": {
-        "Coral": {
-          "themeName": "D.-Coral",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "a241781d5eb4276a7069b3ea6647a082770addc9",
-            "inkBrand020": "b3764da9f572082782790e8ea3c72e402f9472db",
-            "interfaceBrand010": "1113d5ad4a237e277430074a94efe3feb6ef09ce",
-            "interfaceBrand020": "399283598d39a83afc579e35b63c16b14249a4d5",
-            "interactivePrimary010": "99015cd82e225771efac0f54f2974cd108daed6e",
-            "interactivePrimary020": "41eaf65ed23005a170b539f85877a875369863ae",
-            "interactivePrimary030": "2f990a7057a66698a31cd832387b513d4aafca8c",
-            "interactivePrimary040": "9cf343bbef7614f840cc31ff790348cbde4a0961",
-            "interactivePrimary050": "da56fe165f4821418d663fce9aea9ca5cbbc4b5a",
-            "sectionOne010": "79b929a37bd08571ecde33ee53a2e9a5a04a941b",
-            "sectionOne020": "04852f393bde0bbbc7d3c339067e4bed2dbde4a4",
-            "sectionOne030": "81d0c427a6dbb68ce3f7fbba6d94261ec5a0679c",
-            "sectionOne040": "a6d1495ea7f049481cf860387310ae2874e43019",
-            "sectionOne050": "3b7ade3fcc2c2a702d5597c0dccd8ff33da9003c",
-            "sectionOne060": "f687303264baeaf55d2caf25d7c73c50ae6238bc",
-            "sectionOne070": "384b77f2ca36144cbd26ccf7481be24c2f6558ee",
-            "sectionOne080": "6a849d2ce4e63ca6f351291fe10c30848cb42845",
-            "sectionOne090": "f4cc0dc00aa0b5a8d34b21373cd70a8aeb3d4c3a",
-            "sectionOne100": "c8422aeb70b1ab16c9326b5b65f35f483831a50d"
-          }
-        },
-        "Teal": {
-          "themeName": "D.-Teal",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "8468a29ac98258b13c47f48a7935bc66dfd20b8d",
-            "inkBrand020": "a6e6b141827d8656dbcef01dac46aac4d5f52521",
-            "interactivePrimary010": "03fcf8579c8ca238eb038e2aa0dccfedb0ce18fd",
-            "interactivePrimary020": "ea04cc3f4402ada7daa2407cd3f944b8bcba2d7c",
-            "interactivePrimary030": "e4e4d45095469ea23a734c4e1cec754699de9f24",
-            "interactivePrimary040": "805fede73c27e196bf70b29f5a7de85c3bd7b40d",
-            "interactivePrimary050": "e30a29e5ad7dfe259a7fb0516c0a61b51c265272",
-            "sectionTwo010": "3d1a9203b2dcb1259c7688bf390518caaac381f3",
-            "sectionTwo020": "781e8684bc47c65fff9946ed991d414bf50d3f4b",
-            "sectionTwo030": "a8eef0d6ea3d53ca7927db0e715d0f71c419220b",
-            "sectionTwo040": "e87897b6fa0f0fa1ecb233b348dcbd45444acee2",
-            "sectionTwo050": "bc3c39fd5b3086c3aa4cba70c089f46cd579ad6f",
-            "sectionTwo060": "5d02fbc1ff0d9e86528dd668bd35f684a3dbb12c",
-            "sectionTwo070": "5f3a02b4b284622c5b0594b1ba53337e75d54b83",
-            "sectionTwo080": "188fd7bfea379b40100e6f44a3d4dcf42dcce1c1",
-            "sectionTwo090": "49e48176bd71adeab67c93e22f66b070155d6936",
-            "sectionTwo100": "313f81b352e80bed6b00a4f49cc5ec9b5d20c0f6",
-            "interfaceBrand010": "2e6c2573d09e059328b5facc4ae97a590250b3c7",
-            "interfaceBrand020": "4c20ae696c95af4aaade3a8bdcd5b26462cfadbd"
-          }
-        },
-        "Navy": {
-          "themeName": "D.-Navy",
-          "children": {},
-          "tokens": {
-            "inkBrand010": "bef5fd71c38d88cf1b9dc26f6b04c6c70c8f5d98",
-            "inkBrand020": "261677fa4fe25eafda019c0db22ab9902ff0d3f2",
-            "interactivePrimary010": "3af0beadc41fd220bdc655f3fb053090659187d7",
-            "interactivePrimary020": "f08a503d2172754e72c27e2c7a5272138b210493",
-            "interactivePrimary030": "d56cdb127c8272c2ed4081af3fe6ceb83bb31a26",
-            "interactivePrimary040": "8866dbb9b66b4d0c904a2f4960aaa8c8e6ebc410",
-            "interactivePrimary050": "7fc9e083ee15e9e4faf684ee80f301203cbfa314",
-            "sectionThree010": "d3208f0be9af062110be7ef1dde41554ef94c8c5",
-            "sectionThree020": "a823def26d17d397f9fa1c2ce7c711108a1cec35",
-            "sectionThree030": "f4bdb3e8deee951eaf9baed935f7917c4abf8258",
-            "sectionThree040": "75fc1da40b81d4239a5a1558ea7f8d813466abb9",
-            "sectionThree050": "fe3491450d9744b1af7531f564d7e62b6a3e114c",
-            "sectionThree060": "b8a9f3d97dcef92dccc9cc5b2a3080ba1a9d3193",
-            "sectionThree070": "33571fae5e7463e2f1ff9267a330c4154720137a",
-            "sectionThree080": "099f472d022dbdb9bbbb9bbe429d5a43567acf9b",
-            "sectionThree090": "e1abe0ca94fb7a073e557e1f72710688e3bf8867",
-            "sectionThree100": "0c799bb286462c669eebe7ce346d836738571f7d",
-            "interfaceBrand010": "fce865d9bcb34fe6f65b50a025b737ff378fae7f",
-            "interfaceBrand020": "166af0132bd17e11af3b8d6174282b63708e1d3f"
-          }
-        }
-      },
+      "children": {},
       "tokens": {
         "transparent": "4a906ad37acaeb161f352d9f328953de28733264",
         "overlayTintBase010": "f4dd1886e39d1bcd6e36678a9b623aa6e6369159",
@@ -105,6 +29,8 @@
         "inkInformative": "9dd02acd1d61772ea129430f9bcaacba1d3a60c6",
         "inkBrand010": "fd8ffefe50ae9b5292c8915656a91bd930477b92",
         "inkBrand020": "990a4972da24f9c13b92b99940ddee4623445447",
+        "inkBrand030": "b803d1221f16acc1373507fe53a7868012542e88",
+        "inkBrandGradient010": "477769acda9e168a611afc7ca8db767dd222586b",
         "interfaceBackground": "97bd3448e752fa01e5941ae133310ada8b2785ec",
         "interface010": "b5b987c13793808247ab9cc4427a5d90a8b785fa",
         "interface020": "b0ce7ca213f8b45b1203c61397c8f22d86cf3637",
@@ -259,6 +185,9 @@
         "blackTint070": "a853d9afd7631b49ccc983ef77262ba6278a397a",
         "blackTint080": "3739f6bda939ca800907ac638a36922530dc50ab",
         "blackTint090": "f3b946114eb6fe54b559f598fbfda3364b558086",
+        "gradientLilacPink": "288041bc32f8202b4d3bd7d0d8dadd1c89cd2189",
+        "lilac060": "9f8f82aba60ac302ce3c52b6af2e97ac9da8ebc5",
+        "pink060": "51a3375d38b0dae0b5dca751fdcef227114406ad",
         "shadow010": "38b36cf13dcdc2505618dbfdfe19a5a8d729aae8",
         "shadow020": "4520ce98e39a8eeb22b5b3acae0000833ae75d1f",
         "shadow030": "0fb16717406f311601e53584ae36ef00ad207c71",
