@@ -80,7 +80,11 @@
                 "brandmarkVertical": "8c62220918b30913001a5392aa26c66741da84e9",
                 "brandmarkVerticalInverse": "c11e1e2958255ef82c7e0000006c90b41d8b079f",
                 "glyph": "918dbc84b73a45a2ad3ef55ba938027b38f1df8d",
-                "glyphInverse": "5d259483d15b3775841afc6647ce80b6e70d0882"
+                "glyphInverse": "5d259483d15b3775841afc6647ce80b6e70d0882",
+                "overlayGradientBaseHorizontal": "42a00760a01f5159119d096220cb648c369da86d",
+                "overlayGradientBaseVertical": "9c7f4b8f33990159c9494ca173ab156f7cf76e64",
+                "overlayGradientInverseHorizontal": "58f4b075e40c4a1707f1dc0fd053688a55883cf4",
+                "overlayGradientInverseVertical": "cf8ca2c3d24a445fda6df6303587eb3ce4449202"
               }
             }
           },
