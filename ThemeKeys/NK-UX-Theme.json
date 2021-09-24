@@ -257,7 +257,17 @@
             "interactiveInverse030": "c6a2f906a8c63ab5ee54f9be59350c828db79ba2",
             "interactiveInverse040": "d36fff94c2280226ae53969a5662e1de89a6a71b",
             "interactiveInverse050": "fee0dd7c22b0ad4b9864e653a6d939b2babacc09",
-            "interactiveDisabled010": "d21d7d98abdf2101f2cbacd12a0cbf58b2722ad3"
+            "interactiveDisabled010": "d21d7d98abdf2101f2cbacd12a0cbf58b2722ad3",
+            "interfaceNeutral010": "492a9b53fba5c8b0bf82d328bbf4e10b2c707ffa",
+            "interfaceNeutral020": "777f331d24b133406d5a91c0315cc70474c7bb3a",
+            "interfaceInformative020": "16b8cddb1f366eb560bfe6e264fb85459a8b6bc6",
+            "interfaceInformative010": "78ef6dca5761947a5613c2eb9de5e902542e8093",
+            "interfaceNotice020": "ca4e5289cc68e0232a5b6025943511874b5d785f",
+            "interfaceNotice010": "b469fc060b324cc731619e26fe8bdfb0b838dc78",
+            "interfaceNegative020": "36cc04f0062b3736ff493423195db8d0d3966f69",
+            "interfaceNegative010": "f7d73c33660289f1be0e8c8df5a247dab922179a",
+            "interfacePositive020": "a4d36ebb802b579597a2a1582ff59c99d64b671d",
+            "interfacePositive010": "34a8c94bfcf30f9b8f53b745e1440f885213c5f3"
           }
         }
       },
