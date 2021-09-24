@@ -17,10 +17,10 @@
             "overlayTintInverse020": "dfee167027d96db35a570309cd9fdacf7372ab55",
             "overlayTintInverse030": "75f806428978bb15f3d582af4a87391613993ea1",
             "overlayTintInverse040": "07959e2c775690dbae2e6dbb9d76afcf524fb574",
-            "overlayGradientBaseHorizontal": "3719f221d20cdce1cd6309daf3554f1a28d6703f",
-            "overlayGradientBaseVertical": "6bfdd20764a3f02b00ad9622e78c562b1229b7b7",
-            "overlayGradientInverseHorizontal": "7cb03a5e11e76bb4ae0d9f865742dedfd019e85b",
-            "overlayGradientInverseVertical": "63ba0d64adf2fc75c98202b9418c5f638ca5c633",
+            "overlayGradientInverseHorizontal": "3719f221d20cdce1cd6309daf3554f1a28d6703f",
+            "overlayGradientInverseVertical": "6bfdd20764a3f02b00ad9622e78c562b1229b7b7",
+            "overlayGradientBaseHorizontal": "7cb03a5e11e76bb4ae0d9f865742dedfd019e85b",
+            "overlayGradientBaseVertical": "63ba0d64adf2fc75c98202b9418c5f638ca5c633",
             "inkBase": "e8dadaba4f192ee41b141b5c6f8a7c4dd1c5e19a",
             "inkContrast": "c71a191b279cd27d384caabca1d55f4b88742369",
             "inkSubtle": "e309c56519318b8fbc30f7e427f85822eef0735a",
@@ -284,7 +284,11 @@
             "interface030": "772329f5b0c5f80e172f27fc17b5136705c58350",
             "interface040": "76beaeb4b99ae2dc1b2ea0689c2d8735850aa49f",
             "interface050": "9eee221dc788b25e8ba484f1e9d4e685f3775bda",
-            "interface060": "ce5e82627ba3c27a83f24296965135d69a6aeb89"
+            "interface060": "ce5e82627ba3c27a83f24296965135d69a6aeb89",
+            "overlayGradientBaseHorizontal": "a1493a56b24fd99d8dd1f1fab7d65493f50ca7f0",
+            "overlayGradientBaseVertical": "f70df7c8eb4ffaf778435aba6af751e33d06ef6a",
+            "overlayGradientInverseHorizontal": "d3b8b8eee1daddb77b90f2a50753db412d305b20",
+            "overlayGradientInverseVertical": "da9863cef663df91da8847131784c31f027371bd"
           }
         }
       },
