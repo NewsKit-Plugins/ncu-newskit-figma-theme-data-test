@@ -277,7 +277,14 @@
             "interfaceNegative020": "36cc04f0062b3736ff493423195db8d0d3966f69",
             "interfaceNegative010": "f7d73c33660289f1be0e8c8df5a247dab922179a",
             "interfacePositive020": "a4d36ebb802b579597a2a1582ff59c99d64b671d",
-            "interfacePositive010": "34a8c94bfcf30f9b8f53b745e1440f885213c5f3"
+            "interfacePositive010": "34a8c94bfcf30f9b8f53b745e1440f885213c5f3",
+            "interfaceBackground": "f4a14f450f93513dd4b40b095173fbf4731432eb",
+            "interface010": "28f4296667ed2757a287638300e5d48dc5104c97",
+            "interface020": "6ce693a27ed1eb58f841fbd031ddf84b1ff58e20",
+            "interface030": "772329f5b0c5f80e172f27fc17b5136705c58350",
+            "interface040": "76beaeb4b99ae2dc1b2ea0689c2d8735850aa49f",
+            "interface050": "9eee221dc788b25e8ba484f1e9d4e685f3775bda",
+            "interface060": "ce5e82627ba3c27a83f24296965135d69a6aeb89"
           }
         }
       },
