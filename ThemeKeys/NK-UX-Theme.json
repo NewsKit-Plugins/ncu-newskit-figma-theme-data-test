@@ -256,7 +256,8 @@
             "interactiveInverse020": "dc491d2d9f49fb6e6f6220660d12ec2373429e97",
             "interactiveInverse030": "c6a2f906a8c63ab5ee54f9be59350c828db79ba2",
             "interactiveInverse040": "d36fff94c2280226ae53969a5662e1de89a6a71b",
-            "interactiveInverse050": "fee0dd7c22b0ad4b9864e653a6d939b2babacc09"
+            "interactiveInverse050": "fee0dd7c22b0ad4b9864e653a6d939b2babacc09",
+            "interactiveDisabled010": "d21d7d98abdf2101f2cbacd12a0cbf58b2722ad3"
           }
         }
       },
