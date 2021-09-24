@@ -246,7 +246,12 @@
             "inkContrast": "7f4cbfe889e908ae6c5c6c27ad24e99bbe900a25",
             "inkBase": "8409bfce6e006628e53f6ba7b29cb5057604b4b2",
             "inkInverse": "343bfb20aae50076e5093c38c2d215915f538541",
-            "inkBrand010": "3c0b4db576d12b4c98bc10f6b7f7ea4a01c24439"
+            "inkBrand010": "3c0b4db576d12b4c98bc10f6b7f7ea4a01c24439",
+            "interactivePrimary010": "19e307d723bbdfd3a829e5dcd9986590c8e07dec",
+            "interactivePrimary020": "06e0e946eac5da8df02555349f22327576cceb1b",
+            "interactivePrimary030": "8b2e3110733ddabc88b1ee615860981288b25aef",
+            "interactivePrimary040": "7779c48eb2b7864098ff4dbfcaf8043333160fa4",
+            "interactivePrimary050": "890e48aad8dceb5de7c24f1255186d2b5173a7fe"
           }
         }
       },
