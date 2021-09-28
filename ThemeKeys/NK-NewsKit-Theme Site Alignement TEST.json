@@ -195,8 +195,8 @@
                     "i-Highlight010": "f861b2a314905d67522289e12e9d8778f2270437",
                     "i-Subtle": "ab5a49f0af10ba9f7092ec66f371ce899881f27a",
                     "i-Shadow010": "5342aa0232752c80f59ccc9d2e62ee95f28dd312",
-                    "i-Gradient010": "4c33be84600cc84e6ba3ad4407969e20672b70d0",
-                    "i-Gradient020": "af4d8eaa69657cb442420f5bce60c029cc2199d4",
+                    "i-Gradient010": "ad5444e9a07733ae68ac4f5bc9904566d831523e",
+                    "i-Gradient020": "1273816c70530b57e4359b561528d3412115be29",
                     "i-Background010": "f27a75ee7edd2395f95596c85d1e1bffc531280c",
                     "i-Background020": "9eeea4e007aca14719d3ed0a00e18c2c810d5348",
                     "i-Border010": "93ecf30dc19111b9931864ce15b41cb5cfb67ad7",
@@ -215,6 +215,129 @@
                     "i-AnatomySubtle": "08bb60c7b3a9801b2bf2735ab7f6d9bacca284d0",
                     "i-AnatomyBorder010": "66c383a75d9cf3d94d0fdab55548ad1c137ce6c5",
                     "i-AnatomyBorder020": "60ff7ae6f620827cb5d0b964abad8e5df6a48a8a"
+                  }
+                },
+                "Purple": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Illustration-Purple",
+                  "children": {},
+                  "tokens": {
+                    "palette010": "4a6f64015b70f38f4d7ac8d1f0ed481af74af8e8",
+                    "palette020": "d43381908bd33bcf0710124a7c4433299bf3c76d",
+                    "palette030": "672de73b865c581eeb8d894015f817648673a059",
+                    "palette040": "e52e4d948ff1ae3cd0227c58a4ffea19217512e1",
+                    "palette050": "52dbfa9d70b52e6f7b90693ec3cfc1374adad18f",
+                    "palette060": "ef2a4d25ba6f0d53a83025c9969f7f318df14e2c",
+                    "palette070": "00d54a97ca0def73bc33f5862b41b483a701d21c",
+                    "palette080": "b46f99fad99989cc61de22b1cce060d0aa7bf790",
+                    "palette090": "0025ae70f73a54883c2437a63fd90252741091e0",
+                    "palette100": "42d58785f3af0657bdf2840f4a4f9744d4dffb9b",
+                    "i-Highlight010": "39fad658ff4d42bd080c02bf46490e0762963aaa",
+                    "i-Subtle": "9ac5e97d4220f2226f1b58d2c956b85db92250c7",
+                    "i-Shadow010": "fcc32a1bf21c00fc2773339520c224c5b43cadf3",
+                    "i-Gradient010": "2389a5de821b4c8054ccd3c28e4b4c2569f828d9",
+                    "i-Gradient020": "29bc502a95f4d5f3c5df4a2e27709f322009a1c3",
+                    "i-Background010": "4942c0c6c0ac2ab3b55ea8dc8f4d2052836e07dd",
+                    "i-Background020": "1c42cd8de2e4913d197e77675ff2c204f0c8ed78",
+                    "i-Border010": "1be9c288165bfdff2e9ecfefb3a37764e06d64cd",
+                    "i-Border020": "9a071654e50069d9c82abfcff24000048f9336fe",
+                    "i-Disabled": "0b0d70481ad5f79c5c0e6cec97f090e8071b2ccf",
+                    "i-Interface010": "5ee5c66cc8c9794739e3d18059fde451e3b9a36f",
+                    "i-Interface020": "a5ff865896d6d5552820c8a906aa315ecefdd558",
+                    "i-Interface030": "e3d2f9b48d692b809f086d59702829259523ae8b",
+                    "i-Interface040": "321d1e0accebac7e71eab4c310b60bc4ae774122",
+                    "i-Interface050": "557349c1f1d75a3325aab82d01da0bae9464a8ed",
+                    "i-Interface060": "2eb97133e39537ec6ed5650ff551e609b87326db",
+                    "i-Interface070": "0d72b50a57739b8fd9baca46aa4a85cbf0e5a6ce",
+                    "i-Interface080": "964d07791770780d35c342fc2ba791a4df783f2b",
+                    "i-Interface090": "8e8217ddbf602535b34af5fcab187188b7d783cc",
+                    "i-Interface100": "84914e3b140dd1acc0457dd98c20477e66130d06",
+                    "i-AnatomySubtle": "d04e57bd8058d4737879a5e575e93e76b0ce1567",
+                    "i-AnatomyBorder010": "9d0d9221911e489d37c05091eb85ac3bcbee95d3",
+                    "i-AnatomyBorder020": "084cf8c18580ddbe43a9da81af38c10e10a1e5b5"
+                  }
+                },
+                "Teal": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Illustration-Teal",
+                  "children": {},
+                  "tokens": {
+                    "palette010": "afdeb93d529e12a5abf35d11520199dbc02267f7",
+                    "palette020": "76174966a7d9d88ee46fbdda9629b147ae5013b7",
+                    "palette030": "1bf1d4f6cfde39d3d2ad988b290614d9ea7c9cc2",
+                    "palette040": "caafbe0d78f6d5572ce692824978ebbd8d3623f5",
+                    "palette050": "f11c820616385b9986ae180e591d42aa838fb793",
+                    "palette060": "60266a89464ea41aa47b9aa2fc970670dc1e910d",
+                    "palette070": "0b375ce408119d51abaee3ef942c94db4e6ac4f3",
+                    "palette080": "c4d17e7d5a21fb532ce12eb5787f04a60de40166",
+                    "palette090": "e0f53b34006523e3854a532cca0d5d38d18e38ee",
+                    "palette100": "23ef244b338a82966b70ce93043966b62b85eb18",
+                    "i-Highlight010": "a4d3e6cb9b809e33c910e5e976f1217f2a92a2d8",
+                    "i-Subtle": "0e33727b1fc4cf6909c4ee0583579b3a18d83e20",
+                    "i-Shadow010": "2440493ca22c0f885adc94a21d68b3b9ffb2a7a7",
+                    "i-Gradient010": "98d3f673a58a32204bba56842469eee74a4939ec",
+                    "i-Gradient020": "1009730cc8b7f52e8e4e6b032a12051673944385",
+                    "i-Background010": "8095c2d00eeba2d95c67e8956b63e216fc09b3e2",
+                    "i-Background020": "fab6608206369d3cb3fc565d62295819b704e396",
+                    "i-Border010": "b6471587928169a8bde436e83e4b4a2a85c252ff",
+                    "i-Border020": "95ddbef7815de5a231246e9513b08b261e5d70f8",
+                    "i-Disabled": "7988e3265b6dcb498ef86d6597f60ecd93c42214",
+                    "i-Interface010": "233c0733ad13fe05510b3f35ae71772214965b0a",
+                    "i-Interface020": "d8c2c415aa6f080d5aba8d3d9b80cbba1d6e5f02",
+                    "i-Interface030": "eda030e81a831ef2e5e09e2f5975c2f2ac4c5518",
+                    "i-Interface040": "68eecba851ef17bed3713a29bb866f729aaaf905",
+                    "i-Interface050": "8904618ce1a126797a2fde528a51decefa74871d",
+                    "i-Interface060": "180c739d12a1d456cf56b779f6cf861371016c7f",
+                    "i-Interface070": "f2ab79095017050270c4bc7ba0589c18a637aa9d",
+                    "i-Interface080": "26e4dce8462c2cbd1b779c3d4e3122f20cf05d8b",
+                    "i-Interface090": "f6be54c03dd0631808ad0a9861f3d485cc969c12",
+                    "i-Interface100": "5dd7c3175b9d46054b82c0f9e4c47c40a2359522",
+                    "i-AnatomySubtle": "ab859f75363706bf68d85fbd75779de416ac434f",
+                    "i-AnatomyBorder010": "22b92873bfe9116b21a64dd0732c33ae0dc5643b",
+                    "i-AnatomyBorder020": "a64ebf79e7a25d6ee4a9c307b2bc85547005f6c9"
+                  }
+                }
+              },
+              "tokens": {}
+            },
+            "Site Section": {
+              "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Section",
+              "children": {
+                "Foundations": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Section-Foundations",
+                  "children": {},
+                  "tokens": {
+                    "inkBrand010": "79ab6ebaab539028e2483eed50c63bf16789e2fd",
+                    "inkBrand020": "8b4f0e50a28696e8e17e3e1872133ba77cfc347e",
+                    "interfaceBrand010": "34d8d596d621b4c5ac84b29ddf3709b766e9fb4e",
+                    "interfaceBrand020": "9f6528b255cdfa3b86e3b0851e4220709265325f",
+                    "interfaceBrand030": "fad87a404dcadf07118d85191a106f79f6035d6c",
+                    "interfaceBrand040": "43d0457cc75d21798cc2360cf8cde74dd3636a23",
+                    "interfaceBrand050": "f31edc09fd495a9d410e326ff5e78490c64dcc08"
+                  }
+                },
+                "Patterns": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Section-Patterns",
+                  "children": {},
+                  "tokens": {
+                    "inkBrand010": "0570f46f2a4a684c877dba61e759d1a3f1880eab",
+                    "inkBrand020": "c29558595022867df1d392389c842810bd541b5e",
+                    "interfaceBrand010": "945f7e751d8991d43aa02fccb4c6256a6459b48b",
+                    "interfaceBrand020": "de98ee4b4825f92f315a4b54153577d23ca62ebb",
+                    "interfaceBrand030": "d421eb47e11915fff7cf60a14eeb83f1300251d9",
+                    "interfaceBrand040": "e7ea40059158eca860befe4cc0c03354956a532a",
+                    "interfaceBrand050": "13d4cc25813064330a54a61786e8acac6c9c6986"
+                  }
+                },
+                "Accessibility": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Section-Accessibility",
+                  "children": {},
+                  "tokens": {
+                    "inkBrand010": "d3fd3c04d3df77e533066d36515d43f37188cb9c",
+                    "inkBrand020": "0ebaa3745cc188044d78f7b9af46bff7e2ee0db9",
+                    "interface010": "f62c05571dd27ef920f21950da717919d5a7d070",
+                    "interface020": "60a8747a1b7b6adedee56100fbb6657d6667b60f",
+                    "interface030": "e2bb71ad6773c1158b5321864ac14933455114fe",
+                    "interface040": "5a77aabb39cff004f39a8b9d39e7232097e95832",
+                    "interface050": "768d95fd3856f3566f17f959539832ffb9e573c5"
                   }
                 }
               },
