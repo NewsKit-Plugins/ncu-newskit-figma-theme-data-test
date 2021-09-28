@@ -126,6 +126,51 @@
             }
           },
           "tokens": {}
+        },
+        "Site Section": {
+          "themeName": "NewsKit Site Theme Test-Site Section",
+          "children": {
+            "Foundations": {
+              "themeName": "NewsKit Site Theme Test-Site Section-Foundations",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "861a1aa6108022c1dae9700561dfbfe3efd0d749",
+                "inkBrand020": "3a5136fa50efc91add5e7f0679939dc38db1f49e",
+                "interfaceBrand010": "e28514f47ff20f9260bba524ef4e90e094f0d5fd",
+                "interfaceBrand020": "aa056a21332049b6226a0e9c33dabd0f84ae7671",
+                "interfaceBrand030": "25d9ac6d1104c436726c315fcfe32713f0f1c52e",
+                "interfaceBrand040": "80f7f5e496a62d84fcd83d487807609fe57b8032",
+                "interfaceBrand050": "1d1ed4d2a8fa3d0833ef2a98832530d64f24ec26"
+              }
+            },
+            "Patterns": {
+              "themeName": "NewsKit Site Theme Test-Site Section-Patterns",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "4ee19add0932bd01f5c5d9ba0857c80ae0009ce8",
+                "inkBrand020": "5f46e7e41c096e8fd9973b9833a2f71b6a05fea9",
+                "interfaceBrand010": "8746588ac6bbb93fdf3940e8bcd5e11d2e4f2039",
+                "interfaceBrand020": "a8a802cc2683e9b897d3a81f14ebb67570ef71f4",
+                "interfaceBrand030": "44fcf29d70d932a8707047cb3e1e1f8262be6f55",
+                "interfaceBrand040": "e3e4d6bc2f1cbd9049762cdf664cc1b510529435",
+                "interfaceBrand050": "1baf89834e8529800d3ffd4f8c8a72eb7681a404"
+              }
+            },
+            "Accessibility": {
+              "themeName": "NewsKit Site Theme Test-Site Section-Accessibility",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "110010313bf29db6cc8035a605b384f5ef518bc8",
+                "inkBrand020": "c99261590e1d2f77da56be509fe23b2a63f9d07d",
+                "interfaceBrand010": "fa6e577d5096184d932a9a571eea97a8d3691529",
+                "interfaceBrand020": "8b7cde73cf153294284d80f88f7fbc472aafc55b",
+                "interfaceBrand030": "7aeecbad08310366f001105ce3e6cf2594e3aeea",
+                "interfaceBrand040": "c7d66ab2ce20932c3f00d7df0d98f0e60d6ef256",
+                "interfaceBrand050": "8486d5e3ac7494bafea5022fbee55c4073b93e1f"
+              }
+            }
+          },
+          "tokens": {}
         }
       },
       "tokens": {
