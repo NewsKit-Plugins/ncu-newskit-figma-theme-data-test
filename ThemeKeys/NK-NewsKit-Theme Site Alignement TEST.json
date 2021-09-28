@@ -171,6 +171,26 @@
             }
           },
           "tokens": {}
+        },
+        "NewsKit Site Theme Test Dark": {
+          "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark",
+          "children": {
+            "Site Illustration": {
+              "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Illustration",
+              "children": {
+                "Blue": {
+                  "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test Dark-Site Illustration-Blue",
+                  "children": {},
+                  "tokens": {
+                    "palette010": "ff305885aa4d4d4f3a61dd7c1eac5160d4909c5c",
+                    "palette020": "c322bb6f5e8e412c6308528402abe11e6ba6dc9a"
+                  }
+                }
+              },
+              "tokens": {}
+            }
+          },
+          "tokens": {}
         }
       },
       "tokens": {
