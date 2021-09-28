@@ -4,27 +4,21 @@
     "NewsKit Site Theme Test": {
       "themeName": "NewsKit Site Theme Test",
       "children": {
-        "NK": {
-          "themeName": "NewsKit Site Theme Test-NK",
-          "children": {
-            "NewsKit": {
-              "themeName": "NewsKit Site Theme Test-NK-NewsKit",
-              "children": {},
-              "tokens": {
-                "palette010": "c22ef4d8991543aa6be3411717b5dbf1651bdc91",
-                "palette020": "ecfa92cfc2808f7a882a9640605032b9a8929ad0",
-                "palette030": "53252b65fdd286e6a55d6f935da4329ce7e6a698",
-                "palette040": "fcb2fe4a0fd6828dbffbf163d31df1219ec8301b",
-                "palette050": "f87bf523712ae0abbc66fef25bb4ed5bc545b02d",
-                "palette060": "eca5d169ab02d55fd3a137ac3859236d00e9d59f",
-                "palette070": "31326f7800e107e2c01d6374e18efcaec430ef30",
-                "palette080": "8a3562a9352564d64ad721d1a9a6c8d60f907916",
-                "palette090": "5f4a5499559e4287b04d56429268260be7a4957f",
-                "palette100": "078f495046e1508c37ea2b7b28d9c4da61e07554"
-              }
-            }
-          },
-          "tokens": {}
+        "Site Illustration": {
+          "themeName": "NewsKit Site Theme Test-Site Illustration",
+          "children": {},
+          "tokens": {
+            "palette010": "c22ef4d8991543aa6be3411717b5dbf1651bdc91",
+            "palette020": "ecfa92cfc2808f7a882a9640605032b9a8929ad0",
+            "palette030": "53252b65fdd286e6a55d6f935da4329ce7e6a698",
+            "palette040": "fcb2fe4a0fd6828dbffbf163d31df1219ec8301b",
+            "palette050": "f87bf523712ae0abbc66fef25bb4ed5bc545b02d",
+            "palette060": "eca5d169ab02d55fd3a137ac3859236d00e9d59f",
+            "palette070": "31326f7800e107e2c01d6374e18efcaec430ef30",
+            "palette080": "8a3562a9352564d64ad721d1a9a6c8d60f907916",
+            "palette090": "5f4a5499559e4287b04d56429268260be7a4957f",
+            "palette100": "078f495046e1508c37ea2b7b28d9c4da61e07554"
+          }
         }
       },
       "tokens": {
