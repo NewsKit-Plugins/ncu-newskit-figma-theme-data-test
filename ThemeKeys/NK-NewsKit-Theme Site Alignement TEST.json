@@ -345,6 +345,77 @@
             }
           },
           "tokens": {}
+        },
+        "NewsKit Site Theme Test": {
+          "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test",
+          "children": {
+            "Dark": {
+              "themeName": "NewsKit Site Theme Test-NewsKit Site Theme Test-Dark",
+              "children": {},
+              "tokens": {
+                "inkBase": "bb751d3720f6f9daee12c31b9d1ee0debf7aea38",
+                "inkContrast": "a6c71adac5535ca3c702a3ed8a0a321fba8c9166",
+                "inkSubtle": "29f4886e687bc8d978fe5bf22b23bd4c58741395",
+                "inkNonEssential": "58e624433466bd857c613feae857ead3ff86fd83",
+                "inkInverse": "cb810aed6a040bf21c08ab18037196d3f4f21a6b",
+                "inkPositive": "d7ea5e3e23fc99b4996693f32182a537c6a096df",
+                "inkNegative": "b2e617b8418d40ba3aa409867aaaeb514aa642ac",
+                "inkNotice": "ac9ebd2a24b31a9044cdce7be428a58bed042a3a",
+                "inkInformative": "acaae7a78314da6609d8e3b4da256a6476360c8f",
+                "inkBrand010": "c28a082e389479b211dadc5324ab1fdf875726ba",
+                "inkBrand020": "bc0df2bb1c5b6da9d4fa41c62d531ca65f610377",
+                "interfaceBackground": "526bc6e483f5d71dbb51ec1dc3e6d43ec6bac661",
+                "interface010": "73452cc1d0ab27f35ff43e24e44edd3f731beb0a",
+                "interface020": "a58cf041161daf038d2538387d0c2454347f2e5f",
+                "interface030": "925940149ac8d09cdab26ab9e32486926324de36",
+                "interface040": "39b7124e8425c0a229b0e3fd6916529a21028057",
+                "interface050": "ebe16e7c84f783f89dd61d264df9df1cb12d1c8b",
+                "interface060": "dda4b5b52bd4745ec456892088f2bc35e1a14ffe",
+                "interfaceBrand010": "7f81032ab585b67e2cc05381263b8581ed48e48b",
+                "interfaceBrand020": "cff92555377e5efd51bf853fac000e7db365fd3a",
+                "interfacePositive010": "d2751d2da456b77002d6301fa12b4d8ae4fc6354",
+                "interfacePositive020": "76f3c58c7cb8256bcfc4347bce91dcd25803995a",
+                "interfaceNegative010": "9b1dd27d1aeec5a0016a6c6ec9f688d05b257625",
+                "interfaceNegative020": "ab4321906d881fbca6176c88dfeead08d830d4fe",
+                "interfaceNotice010": "9ce08fcdaa7a76cc4913762ac24846d48890fb1e",
+                "interfaceNotice020": "5bf19455571110bcc6ad6cb1604369da42786c2f",
+                "interfaceInformative010": "59514a59b132de468bf2cf803043af8f0cdabaeb",
+                "interfaceInformative020": "6f4216cedce0edced3773d8dfe113479199111cf",
+                "interfaceNeutral010": "6a46b2be9f3319550e3e8191f8199d5d5c1f4cf8",
+                "interfaceNeutral020": "8a4f9dd0ff698aff2745ba363c3a44470072b4f4",
+                "interfaceSkeleton010": "09feb35e5096d6f0e947940d64e6d7d2235fd361",
+                "interfaceSkeleton020": "18efd66fe3c9d2657f0b82be141ce48f5add0efa",
+                "interactiveDisabled010": "8c1246f75c8e5d822ef12ce295524257d00dc5e2",
+                "interactiveVisited010": "ac421cff71ba97416b076385cadca17b1ae2916b",
+                "interactivePrimary010": "fce3bc690cc8961c7c423ee39e83513fefcd9d64",
+                "interactivePrimary020": "3e630651e5bbd763e004aeb2ec205032e7dd6544",
+                "interactivePrimary030": "afb043c3b90a30ebb9c22cc9463d44d1bb5b20e6",
+                "interactivePrimary040": "533fddb37cfd8f17b87b501623112c4badbfce70",
+                "interactivePrimary050": "0926d934f6dbc78dfe479443f91b3d7af3d0eb1b",
+                "interactiveSecondary010": "279a27d1378c7e50289160c1d50e1aec3bb2f579",
+                "interactiveSecondary020": "8a44fbd7e99f4b1b60766291a8610a99ca1fbc6f",
+                "interactiveSecondary030": "03931723e84de58e92ebc7eb63fc9447c6461f3e",
+                "interactiveSecondary040": "d758a46e78c10d031ca161c1e0ed06f8e67dd6f8",
+                "interactiveSecondary050": "dd818916ced24e66a0676048b035511818355aac",
+                "interactivePositive010": "60b466a021ec3352d88a13658fe977a3e8399eff",
+                "interactivePositive020": "cd980aff70646824063b65c3e37dc9b5cb24f782",
+                "interactivePositive030": "54e8994e4f6d70c0bcf33f7f6f40a9f0b5452e3c",
+                "interactivePositive040": "0d837cf99e1fa3ca87873e6e1711c53aa5ff7bcc",
+                "interactivePositive050": "da256b7b145e90a06392de7d68531e7a5d0433bf",
+                "interactiveNegative010": "a1fae11f12de40ea72f5e57e8389db9885182ea5",
+                "interactiveNegative020": "1aefbc48340a359e8941f0d55d1c5fae713efec7",
+                "interactiveNegative030": "19e3d5357d7eed697ddbe997cedef3d0c68e5483",
+                "interactiveNegative040": "bdd3a4d941dd59de507da6c784eb721e1d4f0445",
+                "interactiveNegative050": "e6b02ce14de95abbdf39b678cb3ade3e4705f52f",
+                "interactiveInverse010": "261e4840b979eb40a5fbb68e1b6938bea150bd3a",
+                "interactiveInverse020": "424d948f413757e1fa14f8e05939a7a51d1bed3f",
+                "interactiveInverse030": "4d8723e8834db5752b88d8831d7b0b839377ffa6",
+                "interactiveInverse040": "dad3410adf405df90ccc0f17de79d6a4b248d23e",
+                "interactiveInverse050": "1a9e85912331a43e83b969cf11eab8a56b6f354f"
+              }
+            }
+          },
+          "tokens": {}
         }
       },
       "tokens": {
@@ -631,7 +702,10 @@
         "utilityButton020": "c92dffb900b247485c2b3edd96d16d38ba2a012a",
         "utilityButton030": "01384e43a0417cd8c27f29358c9fb4cbd9bfecf5",
         "utilityMeta010": "f79389ebe06145ca2e2ce354a75db8f2e1cb3559",
-        "utilityMeta020": "c64d7c561d307e3698e5853efdf4cd62a3a3a221"
+        "utilityMeta020": "c64d7c561d307e3698e5853efdf4cd62a3a3a221",
+        "utilityCode010": "e23284b39b942e58f321cff19b3935b79dae24b9",
+        "utilityCode020": "ad3d049f684c9981fb0e3bec26d6f598333a0d95",
+        "utilityCode030": "27ed97e9cb74e96fa59f683340ad2c61ba9acd56"
       }
     }
   },
