@@ -403,7 +403,12 @@
             "interactiveInverse020": "424d948f413757e1fa14f8e05939a7a51d1bed3f",
             "interactiveInverse030": "4d8723e8834db5752b88d8831d7b0b839377ffa6",
             "interactiveInverse040": "dad3410adf405df90ccc0f17de79d6a4b248d23e",
-            "interactiveInverse050": "1a9e85912331a43e83b969cf11eab8a56b6f354f"
+            "interactiveInverse050": "1a9e85912331a43e83b969cf11eab8a56b6f354f",
+            "interactiveTest010": "73c89c3e5decdfae93b22488f64f921578492ba6",
+            "interactiveTest020": "77c6312509d25e65b97f8066cb15ced89300fbfa",
+            "interactiveTest030": "7b724c3169a5ccd10b0235abe0b6443f30d16a0b",
+            "interactiveTest040": "8bf5d7e538dca35c3048f3152ee66053e93ba423",
+            "interactiveTest050": "81d21d29092d1eaa19399256a8d2c1eac9bfd29e"
           }
         }
       },
@@ -483,6 +488,11 @@
         "interactiveInverse030": "0204b69745726299f4086ec2427f81afb665036d",
         "interactiveInverse040": "a021d8989f45eca2cfcbfa84193e5d21cf674c85",
         "interactiveInverse050": "31e0a2e7007dd76662f896b7ff9c484d01731281",
+        "interactiveTest010": "ee808ebdf17a59c5f48c22a1579f1b579d710acf",
+        "interactiveTest020": "2a8018d86e9d71f65feb94d3730ee9ca5513c7de",
+        "interactiveTest030": "139b2fb3ff961b4437035723fa4039cdb3c42db9",
+        "interactiveTest040": "3730544b6122af2880c26bf87f7da8c6f62a824d",
+        "interactiveTest050": "bf4228bed655206206e2587f556b359ac4c47980",
         "advertisingImage": "da9781a1f15c74b5a0f324466ca10e33f60ceb01",
         "advertisingImageInverse": "a5dee7575a6adbf664e8bf1cfd70ba37fd6e23b6",
         "placeholderImage": "2e31bc3b3197fb59d9ac4eb0519d32a5659e418e",
@@ -569,7 +579,6 @@
         "instagram": "69233f4748b3be33e9965ab66af6e9b40b37c91b",
         "facebook": "a03489de0f18626dedc2e01edac1cf6f51f95b5e",
         "twitter": "3f39530951f057ff4311a9a251b7320a7c0f4d80",
-        "black": "7a9aabdbd795e4dd8c6d16dc6c2704075469c889",
         "white": "d6919fb5ce62cfd3277d5b11457c96c9d4a7c2f2",
         "whiteTint090": "e24bb55b269114a6517315f435a19425573f036c",
         "whiteTint080": "81d28c9ecdf256b0b6fc4daaab79b089a239c394",
@@ -580,6 +589,7 @@
         "whiteTint030": "5423fc7736ced0768b385f6b85a798c944757a57",
         "whiteTint020": "d07daf4b1d710f3956ccee49cffd694e5d5fd801",
         "whiteTint010": "704cf825441468fa43580f5a8781d34d8697527e",
+        "black": "7a9aabdbd795e4dd8c6d16dc6c2704075469c889",
         "blackTint090": "f7cae25186a4da5e3d50e3d3906000287f8b669e",
         "blackTint080": "7a0ae6467fb14599d26a1d7bc8394225342ace67",
         "blackTint070": "15f043764e407e53b7dcb18a0318a3e7b56519be",
