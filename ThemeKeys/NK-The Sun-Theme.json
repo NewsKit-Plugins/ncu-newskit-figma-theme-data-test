@@ -8,7 +8,7 @@
           "themeName": "TheSun-Fabulous",
           "children": {},
           "tokens": {
-            "inkBrand010": "003544035cff5684c2ad377ee8b7b860ef62ab3b",
+            "inkBrand020": "003544035cff5684c2ad377ee8b7b860ef62ab3b",
             "interfaceBrand010": "7ab5b18e92ebe5f39c726ad9783cf09b824d8f80",
             "interfaceBrand020": "52d9727e71af0fd25f4a6a0e1447e1b132950000"
           }
@@ -17,7 +17,7 @@
           "themeName": "TheSun-Football",
           "children": {},
           "tokens": {
-            "inkBrand010": "a26944f6d745b93645de755cb54fe60f6f6e0400",
+            "inkBrand020": "a26944f6d745b93645de755cb54fe60f6f6e0400",
             "interfaceBrand010": "ce017c93299d3a13c1aa7c477a429ea795a82d6e",
             "interfaceBrand020": "6f64129904a3f75f7e66f3c2dbdd65ee944a67db"
           }
@@ -26,7 +26,7 @@
           "themeName": "TheSun-Money",
           "children": {},
           "tokens": {
-            "inkBrand010": "fd36786337103dcc29b01036f91b1beadbcbb2fa",
+            "inkBrand020": "fd36786337103dcc29b01036f91b1beadbcbb2fa",
             "interfaceBrand010": "fd95ba61a1e65686520f7728cb2da83f90abd140",
             "interfaceBrand020": "9c03ae80e78274e1f679c085580b5a1dbdae413f"
           }
@@ -35,7 +35,7 @@
           "themeName": "TheSun-Motors",
           "children": {},
           "tokens": {
-            "inkBrand010": "9da7a8dd22c8ddc6891fa282627a2b7c07596e5d",
+            "inkBrand020": "9da7a8dd22c8ddc6891fa282627a2b7c07596e5d",
             "interfaceBrand020": "4dea2e71edd68dd9c3a3708f885873645a279013",
             "interfaceBrand010": "ceae421f5eed4e540d6e8b20872338fa5a54ae11"
           }
@@ -44,7 +44,7 @@
           "themeName": "TheSun-News",
           "children": {},
           "tokens": {
-            "inkBrand010": "55d9a9e01657f4053fc677a2c4cd6715a17ef4f7",
+            "inkBrand020": "55d9a9e01657f4053fc677a2c4cd6715a17ef4f7",
             "interfaceBrand020": "c5ec3b154d883c77906ceee6b6ef07b22e141edc",
             "interfaceBrand010": "075d79a9eded337a53b716a843d6c539ec70e05f"
           }
@@ -53,7 +53,7 @@
           "themeName": "TheSun-Showbiz",
           "children": {},
           "tokens": {
-            "inkBrand010": "764592b449bd88b5774528f5f0c49cb0eb40b78c",
+            "inkBrand020": "764592b449bd88b5774528f5f0c49cb0eb40b78c",
             "interfaceBrand010": "010f65da03e7402a20dbb9ec4133ad2c85e54d0b",
             "interfaceBrand020": "f4df023bfe3a878d94adaa0dc81498a292ab3bb1"
           }
@@ -62,7 +62,7 @@
           "themeName": "TheSun-TV",
           "children": {},
           "tokens": {
-            "inkBrand010": "4950e911fe014b4ec3628aca9930e819300b5ef8",
+            "inkBrand020": "4950e911fe014b4ec3628aca9930e819300b5ef8",
             "interfaceBrand010": "177dc211873c48ddb92ba6d9be73ec1be24a05f3",
             "interfaceBrand020": "c095762245dcb63a14b011b504c2b6e2308d4dae"
           }
@@ -71,7 +71,7 @@
           "themeName": "TheSun-Sport",
           "children": {},
           "tokens": {
-            "inkBrand010": "7740039a36a1f04c4b86f7da6d600c7acdfae8b8",
+            "inkBrand020": "7740039a36a1f04c4b86f7da6d600c7acdfae8b8",
             "interfaceBrand020": "99474293cc785c879203350cdf0ed02d9a7d14e8",
             "interfaceBrand010": "2362dbe3c49709c45a398e814de6ea77cb52944a"
           }
@@ -80,7 +80,7 @@
           "themeName": "TheSun-Tech",
           "children": {},
           "tokens": {
-            "inkBrand010": "04e2469de207b4c313220c846300bd262172c972",
+            "inkBrand020": "04e2469de207b4c313220c846300bd262172c972",
             "interfaceBrand020": "9b8c8aee1687172e15a66b8ade5fccb240d1a55f",
             "interfaceBrand010": "b618e1c1d3e710b222cb7e67d2eeb0d8a49cc92e"
           }
@@ -89,7 +89,7 @@
           "themeName": "TheSun-Travel",
           "children": {},
           "tokens": {
-            "inkBrand010": "0e27c263b6b2e854181231adc51b3a0c53ffeb34",
+            "inkBrand020": "0e27c263b6b2e854181231adc51b3a0c53ffeb34",
             "interfaceBrand020": "26596367db7b19fbb0815950eb66efa89a0462a9",
             "interfaceBrand010": "2cbace6d40ac9428a299fedf022612fad6175fab"
           }
@@ -98,7 +98,7 @@
           "themeName": "TheSun-Lifestyle",
           "children": {},
           "tokens": {
-            "inkBrand010": "5ec3ff515599739ae04bf6682d9950765e34c019",
+            "inkBrand020": "5ec3ff515599739ae04bf6682d9950765e34c019",
             "interfaceBrand020": "bd91436c41031233a04ddb476cdc91dab2e36f94",
             "interfaceBrand010": "004451bba18235b73cdb8b938ae4c2de7552efa6"
           }
