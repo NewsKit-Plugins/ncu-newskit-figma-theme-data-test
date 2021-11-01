@@ -68,6 +68,11 @@
             "interactiveInverse030": "4fc67a1ad13e8935afc1b8bc24dbef5cb9415246",
             "interactiveInverse040": "a7f2d24ef168880f5a3027d2e8e01d834bb5a20d",
             "interactiveInverse050": "4a400d4bfc37c528ed273e3e6a15fd9ce2e01c50",
+            "interactiveInput010": "dd04a95b55437621f9b90812e36decc5010f72f6",
+            "interactiveInput020": "62ba69cb0034beb2a31f5f1b4f8623dc613fcc52",
+            "interactiveInput030": "bca055740f948d31bb2310410fd02e2ce4cbdbef",
+            "interactiveInput040": "4ed4debb47ee2d6dca7f616d4b8fdb1f00b55205",
+            "interactiveInput050": "a9f0ad560e2c92619a22c36b3a2a49415e363c34",
             "advertisingImage": "49c7dfaf78d84f9ccaaba99642d008ef371bb876",
             "advertisingImageInverse": "0a67a0d798fb1b921107ed525c9f7bf3c8394898",
             "placeholderImage": "8f5542b4f44558323021f0add4d1e1be79b2f1aa",
@@ -78,6 +83,17 @@
             "brandmarkVerticalInverse": "958188f0e30ff0566c338fd8abb41415d7d92e53",
             "glyph": "bca321d0c2e250ffcc21f6eda536ecbb320591bf",
             "glyphInverse": "3c8113c9214cc78e96939e317c528b4d71799e79"
+          }
+        },
+        "TimesRadio Dark": {
+          "themeName": "TimesRadio Dark-TimesRadio Dark",
+          "children": {},
+          "tokens": {
+            "interactiveInput010": "9fd404ff8849e69e04cc09444c7b2809eddff60b",
+            "interactiveInput020": "47e94f516fd1a8aac283b6827384fc242cd0d90a",
+            "interactiveInput030": "e3e50c048c666bd143f72f614a99fafc527991f3",
+            "interactiveInput040": "288c02520726ec30a9b4eac11d50f298258610b8",
+            "interactiveInput050": "f003b9f73535c2ac4001e635c359029d4628b6d4"
           }
         }
       },
@@ -343,11 +359,11 @@
         "utilityHeading030": "3b8b3c25dd1b656b4e03deebd42037ee052c359c",
         "utilityHeading040": "88ec06dda0c82bfc50c8f30869a4113007101789",
         "utilityHeading050": "670ba55b888e06370d02e8cad019e3a9ae549f7d",
-        "utilitySubheadline010": "c258217e56ce8dae998a19605b0a329e150bcf7f",
-        "utilitySubheadline020": "221f07295340b338dc47326729c15973589509a5",
-        "utilitySubheadline030": "9f15e34f53ef6a389bd27981ee126e80a2204b8b",
-        "utilitySubheadline040": "2d6c2da9feca10b69def4123a7c47ea962501eff",
-        "utilitySubheadline050": "80e4a15b9cfb3274fe8773e927a66505c2c13fd6",
+        "utilitySubheading010": "c258217e56ce8dae998a19605b0a329e150bcf7f",
+        "utilitySubheading020": "221f07295340b338dc47326729c15973589509a5",
+        "utilitySubheading030": "9f15e34f53ef6a389bd27981ee126e80a2204b8b",
+        "utilitySubheading040": "2d6c2da9feca10b69def4123a7c47ea962501eff",
+        "utilitySubheading050": "80e4a15b9cfb3274fe8773e927a66505c2c13fd6",
         "utilityBody010": "23de22f8c25f4477876aab5c8adc4cd08964fdab",
         "utilityBody020": "24590dceb93557e05fc45793faa722234c86fe5e",
         "utilityBody030": "6be9565d1be782a71b50b9637a2ee72553c4c4c9",
